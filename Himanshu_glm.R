@@ -1,4 +1,5 @@
 library(tidyverse)
+library(boot)
 
 data.himanshu = read.csv("Bandhavgarh_Final.csv")
 
@@ -8,20 +9,21 @@ data.himanshu$Season = factor(data.himanshu$Season,levels = c("Summer","Winter",
 data.himanshu = data.himanshu %>%
   mutate(Canopy = Canopy/100)
 
-fit = glm(TYPED ~ Sample.Type + Season:Sample.Type, 
-          data = data.himanshu, family = 'poisson')
+fit = glm(Individual.Identified ~ Season*Sample.Type, 
+          data = data.himanshu, family = 'binomial')
 summary(fit)
 
-newdata = data.frame(Season = rep(unique(data.himanshu$Season),2), Sample.Type = rep(unique(data.himanshu$Sample.Type), each = 3))
+newdata = expand.grid(Season=unique(data.himanshu$Season),
+                      Sample.Type=unique(data.himanshu$Sample.Type))
 
 pred = predict(fit, newdata = newdata, type = "link", se.fit = T)
 
 newdata$mean = pred$fit
 newdata$se = pred$se.fit
 
-newdata$mean.bt = exp(newdata$mean)
-newdata$lci = exp(newdata$mean - 1.96*newdata$se)
-newdata$rci = exp(newdata$mean + 1.96*newdata$se)
+newdata$mean.bt = inv.logit(newdata$mean)
+newdata$lci = inv.logit(newdata$mean - 1.96*newdata$se)
+newdata$rci = inv.logit(newdata$mean + 1.96*newdata$se)
 
 
 
@@ -33,13 +35,13 @@ library(extrafont)
 
 pd = position_dodge(0.2)
 
-ggp = ggplot(data = newdata, aes(x = Season, y = mean.bt, col = Sample.Type)) +
-  geom_boxplot(data = data.himanshu, aes(x = Season, y = TYPED, col = Sample.Type), position = pd) +
-  #facet_wrap(.~, nrow = 2, scales = 'free') +
-  geom_point(position = pd) +
-  geom_errorbar(aes(ymin = lci, ymax = rci), width = 0.05, linewidth = 1, position = pd) +
+ggp = ggplot(data = newdata, aes(x = Canopy, y = mean.bt, col = Sample.Type)) +
+  geom_point(data = data.himanshu, aes(x = Canopy, y = TYPED, col = Sample.Type)) +
+  facet_wrap(.~Season, nrow = 3, scales = 'free') +
+  geom_ribbon(aes(ymin = lci, ymax = rci), alpha = 0.5, fill = "grey", linetype = 0) +
+  geom_line(data = newdata, aes(x = Canopy, y = mean.bt, col = Sample.Type)) +
   theme_bw() +
-  xlab("Season") +
+  xlab("Canopy") +
   ylab("No. of Snips") +
   theme(strip.text.x = element_text(size = 15))
 

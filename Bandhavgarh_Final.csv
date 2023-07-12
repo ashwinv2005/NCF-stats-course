@@ -1,0 +1,512 @@
+Sr.no.,SAMPLE_ID,Reserve,TYPED,ALL_SNPs,SNP.Typed,Individual.Identified,Kill.ID,Season,Kill.Days,Age,Smell,Maggots,Flies,Rain,Consumption,Decomposition,Canopy,Sample.Type,Sample.Category,COLLECTOR
+11,C02-BTR21-046-SL01,Bandhavgarh,14,95,14,0,C02-BTR21-46,Summer,0,9,Low,None,Low,No,25,,0,SALIVA,Post predation,AJAY
+12,C02-BTR21-046-SL02,Bandhavgarh,5,95,5,0,C02-BTR21-46,Summer,0,9,Low,None,Low,No,25,,0,SALIVA,Post predation,AJAY
+13,C02-BTR21-046-SL03,Bandhavgarh,39,95,37,0,C02-BTR21-46,Summer,0,9,Low,None,Low,No,25,,0,SALIVA,Predation,AJAY
+16,C02-BTR21-050-SL01,Bandhavgarh,24,95,24,0,C02-BTR21-50,Summer,2,5.5,Low,None,Low,No,75,,70,SALIVA,Predation,AJAY
+17,C02-BTR21-050-SL02,Bandhavgarh,6,95,6,0,C02-BTR21-50,Summer,2,5.5,Low,None,Low,No,75,,70,SALIVA,Post predation,AJAY
+20,C02-BTR21-054-SL01,Bandhavgarh,28,95,28,0,C02-BTR21-54,Summer,1,8.5,Low,None,Low,No,75,,25,SALIVA,Predation,AJAY
+21,C02-BTR21-054-SL02,Bandhavgarh,56,95,53,1,C02-BTR21-54,Summer,1,8.5,Low,None,Low,No,75,,25,SALIVA,Post predation,AJAY
+22,C02-BTR21-054-SL03,Bandhavgarh,62,95,58,1,C02-BTR21-54,Summer,1,8.5,Low,None,Low,No,75,,25,SALIVA,Post predation,AJAY
+27,C02-BTR21-057-SL01,Bandhavgarh,2,95,2,0,C02-BTR21-57,Summer,1,3.5,Low,None,Low,No,85,,30,SALIVA,Predation,AJAY
+28,C02-BTR21-057-SL02,Bandhavgarh,6,95,6,0,C02-BTR21-57,Summer,1,3.5,Low,None,Low,No,85,,30,SALIVA,Predation,AJAY
+31,C02-BTR21-059-SL01,Bandhavgarh,33,95,32,0,C02-BTR21-59,Summer,0,7.5,Low,None,Low,No,25,,0,SALIVA,Predation,AJAY
+32,C02-BTR21-059-SL02,Bandhavgarh,6,95,6,0,C02-BTR21-59,Summer,0,7.5,Low,None,Low,No,25,,0,SALIVA,Post predation,AJAY
+39,C02-BTR21-062-SL01,Bandhavgarh,6,95,6,0,C02-BTR21-62,Summer,0,8.5,Low,None,Low,No,25,,75,SALIVA,Predation,AJAY
+40,C02-BTR21-062-SL02,Bandhavgarh,6,95,6,0,C02-BTR21-62,Summer,0,8.5,Low,None,Low,No,25,,75,SALIVA,Post predation,AJAY
+46,C02-BTR21-065-SL01,Bandhavgarh,4,95,4,0,C02-BTR21-65,Summer,1,8.5,Low,None,Low,No,35,,5,SALIVA,Predation,AJAY
+47,C02-BTR21-065-SL02,Bandhavgarh,36,95,34,0,C02-BTR21-65,Summer,1,8.5,Low,None,Low,No,35,,5,SALIVA,Post predation,AJAY
+57,C02-BTR21-078-SL01,Bandhavgarh,6,95,6,0,C02-BTR21-78,Summer,2,7.5,Low,None,High,No,75,,0,SALIVA,Predation,AJAY
+58,C02-BTR21-078-SL02,Bandhavgarh,52,95,49,1,C02-BTR21-78,Summer,2,7.5,Low,None,High,No,75,,0,SALIVA,Post predation,AJAY
+61,C02-BTR21-094-SL01,Bandhavgarh,4,95,4,0,C02-BTR21-94,Summer,0,3.5,Low,None,Low,No,75,,0,SALIVA,Predation,AJAY
+62,C02-BTR21-094-SL02,Bandhavgarh,41,95,40,0,C02-BTR21-94,Summer,0,3.5,Low,None,Low,No,75,,0,SALIVA,Post predation,AJAY
+65,C02-BTR21-098-SL01,Bandhavgarh,8,95,8,0,C02-BTR21-98,Summer,0,7.5,Low,None,Low,Yes,0,,65,SALIVA,Predation,AJAY
+67,C02-BTR21-100-SL01,Bandhavgarh,10,95,10,0,C02-BTR21-100,Summer,1,7.5,Low,Low,High,Yes,15,,5,SALIVA,Predation,AJAY
+68,C02-BTR21-100-SL02,Bandhavgarh,7,95,7,0,C02-BTR21-100,Summer,1,7.5,Low,Low,High,Yes,15,,5,SALIVA,Post predation,AJAY
+71,C02-BTR21-102-SL01,Bandhavgarh,10,95,10,0,C02-BTR21-102,Summer,1,7.5,Low,None,High,Yes,0,,0,SALIVA,Predation,AJAY
+75,C02-BTR21-105-SL01,Bandhavgarh,7,95,7,0,C02-BTR21-105,Summer,1,8.5,Low,Low,Medium,No,35,,0,SALIVA,Predation,AJAY
+76,C02-BTR21-105-SL02,Bandhavgarh,10,95,10,0,C02-BTR21-105,Summer,1,8.5,Low,Low,Medium,No,35,,0,SALIVA,Post predation,AJAY
+80,C02-BTR21-112-SL01,Bandhavgarh,0,95,0,0,C02-BTR21-112,Summer,3,6.5,High,High,Medium,Yes,45,,0,SALIVA,Post predation,AJAY
+87,C02-BTR21-118-SL01,Bandhavgarh,73,95,69,1,C02-BTR21-118,Summer,0,10.5,Low,None,High,No,25,,25,SALIVA,Predation,AJAY
+88,C02-BTR21-118-SL01,Bandhavgarh,73,95,69,1,C02-BTR21-118,Summer,0,10.5,Low,None,High,No,25,,25,SALIVA,Predation,AJAY
+89,C02-BTR21-118-SL02,Bandhavgarh,6,95,6,0,C02-BTR21-118,Summer,0,10.5,Low,None,High,No,25,,25,SALIVA,Post predation,AJAY
+91,C02-BTR21-127-SL01,Bandhavgarh,97,95,90,1,C02-BTR21-127,Summer,0,6.5,None,None,None,Yes,0,,75,SALIVA,Predation,AJAY
+92,C02-BTR21-127-SL02,Bandhavgarh,98,95,92,1,C02-BTR21-127,Summer,0,6.5,None,None,None,Yes,0,,75,SALIVA,Predation,AJAY
+94,C02-BTR21-142-SL01,Bandhavgarh,6,95,6,0,C02-BTR21-142,Summer,1,8.5,Low,Low,High,Yes,15,,55,SALIVA,Predation,AJAY
+95,C02-BTR21-142-SL02,Bandhavgarh,6,95,6,0,C02-BTR21-142,Summer,1,8.5,Low,Low,High,Yes,15,,55,SALIVA,Post predation,AJAY
+98,C02-BTR21-143-SL01,Bandhavgarh,19,95,19,0,C02-BTR21-143,Summer,1,7.5,Low,None,Medium,No,15,,0,SALIVA,Predation,AJAY
+99,C02-BTR21-143-SL02,Bandhavgarh,5,95,5,0,C02-BTR21-143,Summer,1,7.5,Low,None,Medium,No,15,,0,SALIVA,Post predation,AJAY
+100,C02-BTR21-143-SL03,Bandhavgarh,50,95,47,1,C02-BTR21-143,Summer,1,7.5,Low,None,Medium,No,15,,0,SALIVA,Post predation,AJAY
+102,C02-BTR21-146-SL01,Bandhavgarh,0,95,0,0,C02-BTR21-146,Summer,1,6.5,Low,None,High,Yes,5,Fresh,0,SALIVA,Predation,AJAY
+103,C02-BTR21-146-SL02,Bandhavgarh,7,95,7,0,C02-BTR21-146,Summer,1,6.5,Low,None,High,Yes,5,Fresh,0,SALIVA,Predation,AJAY
+104,C02-BTR21-146-SL03,Bandhavgarh,19,95,19,0,C02-BTR21-146,Summer,1,6.5,Low,None,High,Yes,5,Fresh,0,SALIVA,Post predation,AJAY
+108,C02-BTR21-154-SL01,Bandhavgarh,8,95,8,0,C02-BTR21-154,Monsoon,1,8.5,Low,None,Medium,No,25,Fresh,35,SALIVA,Post predation,AJAY
+109,C02-BTR21-154-SL02,Bandhavgarh,49,95,46,1,C02-BTR21-154,Monsoon,1,8.5,Low,None,Medium,No,25,Fresh,35,SALIVA,Post predation,AJAY
+112,C02-BTR21-157-SL01,Bandhavgarh,0,95,0,0,C02-BTR21-157,Monsoon,1,5.5,Low,Low,Low,No,55,Fresh,5,SALIVA,Post predation,AJAY
+126,C02-BTR21-200-SL01,Bandhavgarh,17,95,17,0,C02-BTR21-200,Monsoon,1,7.5,Low,None,Low,No,45,Fresh,25,SALIVA,Predation,AJAY
+127,C02-BTR21-200-SL02,Bandhavgarh,5,95,5,0,C02-BTR21-200,Monsoon,1,7.5,Low,None,Low,No,45,Fresh,25,SALIVA,Post predation,AJAY
+128,C02-BTR21-200-SL03,Bandhavgarh,8,95,8,0,C02-BTR21-200,Monsoon,1,7.5,Low,None,Low,No,45,Fresh,25,SALIVA,Post predation,AJAY
+130,C02-BTR21-203-SL01,Bandhavgarh,2,95,2,0,C02-BTR21-203,Monsoon,0,8.5,None,None,Low,No,0,Fresh,0,SALIVA,Predation,AJAY
+135,C02-BTR21-209-SL01,Bandhavgarh,2,95,2,0,C02-BTR21-209,Monsoon,1,5.5,Low,None,Low,Yes,45,Fresh,25,SALIVA,Predation,AJAY
+136,C02-BTR21-209-SL02,Bandhavgarh,33,95,32,0,C02-BTR21-209,Monsoon,1,5.5,Low,None,Low,Yes,45,Fresh,25,SALIVA,Post predation,AJAY
+137,C02-BTR21-209-SL03,Bandhavgarh,9,95,9,0,C02-BTR21-209,Monsoon,1,5.5,Low,None,Low,Yes,45,Fresh,25,SALIVA,Post predation,AJAY
+149,C02-BTR21-227-SL01,Bandhavgarh,4,95,4,0,C02-BTR21-227,Monsoon,3,7.5,High,High,High,No,75,Decay,35,SALIVA,Post predation,AJAY
+155,C02-BTR21-228-SL01,Bandhavgarh,8,95,8,0,C02-BTR21-228,Monsoon,2,5.5,Low,Low,High,No,75,Fresh,75,SALIVA,Post predation,AJAY
+165,C02-BTR21-237-SL01,Bandhavgarh,3,95,3,0,C02-BTR21-237,Monsoon,1,8.5,Low,None,Low,No,45,Fresh,65,SALIVA,Predation,AJAY
+166,C02-BTR21-237-SL02,Bandhavgarh,5,95,5,0,C02-BTR21-237,Monsoon,1,8.5,Low,None,Low,No,45,Fresh,65,SALIVA,Post predation,AJAY
+169,C02-BTR21-242-SL01,Bandhavgarh,6,95,6,0,C02-BTR21-242,Winter,0,7.5,None,None,None,No,15,Fresh,0,SALIVA,Predation,AJAY
+170,C02-BTR21-242-SL02,Bandhavgarh,1,95,1,0,C02-BTR21-242,Winter,0,7.5,None,None,None,No,15,Fresh,0,SALIVA,Predation,AJAY
+171,C02-BTR21-242-SL03,Bandhavgarh,5,95,5,0,C02-BTR21-242,Winter,0,7.5,None,None,None,No,15,Fresh,0,SALIVA,Post predation,AJAY
+172,C02-BTR21-242-SL04,Bandhavgarh,5,95,5,0,C02-BTR21-242,Winter,0,7.5,None,None,None,No,15,Fresh,0,SALIVA,Post predation,AJAY
+175,C02-BTR21-243-SL01,Bandhavgarh,6,95,6,0,C02-BTR21-243,Winter,2,6.5,None,None,Low,No,65,Fresh,35,SALIVA,Predation,AJAY
+176,C02-BTR21-243-SL02,Bandhavgarh,6,95,6,0,C02-BTR21-243,Winter,2,6.5,None,None,Low,No,65,Fresh,35,SALIVA,Post predation,AJAY
+177,C02-BTR21-243-SL03,Bandhavgarh,96,95,87,1,C02-BTR21-243,Winter,2,6.5,None,None,Low,No,65,Fresh,35,SALIVA,Post predation,AJAY
+179,C02-BTR21-249-SL01,Bandhavgarh,3,95,3,0,C02-BTR21-249,Winter,0,11,None,None,None,No,5,Fresh,0,SALIVA,Predation,AJAY
+180,C02-BTR21-249-SL02,Bandhavgarh,5,95,5,0,C02-BTR21-249,Winter,0,11,None,None,None,No,5,Fresh,0,SALIVA,Predation,AJAY
+181,C02-BTR21-249-SL03,Bandhavgarh,4,95,4,0,C02-BTR21-249,Winter,0,11,None,None,None,No,5,Fresh,0,SALIVA,Post predation,AJAY
+185,C02-BTR21-252-SL01,Bandhavgarh,29,95,28,0,C02-BTR21-252,Winter,1,2.5,None,None,Low,No,85,Fresh,15,SALIVA,Predation,AJAY
+186,C02-BTR21-252-SL02,Bandhavgarh,25,95,25,0,C02-BTR21-252,Winter,1,2.5,None,None,Low,No,85,Fresh,15,SALIVA,Post predation,AJAY
+187,C02-BTR21-252-SL03,Bandhavgarh,8,95,8,0,C02-BTR21-252,Winter,1,2.5,None,None,Low,No,85,Fresh,15,SALIVA,Post predation,AJAY
+191,C02-BTR21-255-SL01,Bandhavgarh,3,95,3,0,C02-BTR21-255,Winter,2,7.5,None,None,Low,No,95,Fresh,15,SALIVA,Post predation,AJAY
+192,C02-BTR21-255-SL02,Bandhavgarh,26,95,25,0,C02-BTR21-255,Winter,2,7.5,None,None,Low,No,95,Fresh,15,SALIVA,Post predation,AJAY
+197,C02-BTR21-258-SL01,Bandhavgarh,5,95,5,0,C02-BTR21-258,Winter,1,4.5,Low,None,Low,No,15,Fresh,0,SALIVA,Predation,AJAY
+198,C02-BTR21-258-SL02,Bandhavgarh,4,95,4,0,C02-BTR21-258,Winter,1,4.5,Low,None,Low,No,15,Fresh,0,SALIVA,Post predation,AJAY
+199,C02-BTR21-258-SL03,Bandhavgarh,0,95,0,0,C02-BTR21-258,Winter,1,4.5,Low,None,Low,No,15,Fresh,0,SALIVA,Post predation,AJAY
+211,C02-BTR21-263-SL01,Bandhavgarh,53,95,51,1,C02-BTR21-263,Winter,1,7.5,None,None,None,No,30,,30,SALIVA,Predation,AJAY
+212,C02-BTR21-263-SL02,Bandhavgarh,5,95,5,0,C02-BTR21-263,Winter,1,7.5,None,None,None,No,30,,30,SALIVA,Post predation,AJAY
+213,C02-BTR21-263-SL03,Bandhavgarh,31,95,29,0,C02-BTR21-263,Winter,1,7.5,None,None,None,No,30,,30,SALIVA,Post predation,AJAY
+214,C02-BTR21-263-SL04,Bandhavgarh,52,95,50,1,C02-BTR21-263,Winter,1,7.5,None,None,None,No,30,,30,SALIVA,Post predation,AJAY
+215,C02-BTR21-263-SL05,Bandhavgarh,50,95,48,1,C02-BTR21-263,Winter,1,7.5,None,None,None,No,30,,30,SALIVA,Post predation,AJAY
+220,C02-BTR21-265-SL01,Bandhavgarh,54,95,52,1,C02-BTR21-265,Winter,2,7,None,None,Low,No,50,Fresh,35,SALIVA,Post predation,AJAY
+221,C02-BTR21-265-SL02,Bandhavgarh,38,95,37,0,C02-BTR21-265,Winter,2,7,None,None,Low,No,50,Fresh,35,SALIVA,Post predation,AJAY
+222,C02-BTR21-265-SL03,Bandhavgarh,93,95,86,1,C02-BTR21-265,Winter,2,7,None,None,Low,No,50,Fresh,35,SALIVA,Post predation,AJAY
+223,C02-BTR21-265-SL04,Bandhavgarh,40,95,38,0,C02-BTR21-265,Winter,2,7,None,None,Low,No,50,Fresh,35,SALIVA,Post predation,AJAY
+267,C02-BTR21-290-SL01,Bandhavgarh,52,95,50,1,C02-BTR21-290,Winter,2,7,None,None,Low,Yes,65,Fresh,15,SALIVA,Post predation,AJAY
+268,C02-BTR21-290-SL02,Bandhavgarh,85,95,82,1,C02-BTR21-290,Winter,2,7,None,None,Low,Yes,65,Fresh,15,SALIVA,Post predation,AJAY
+269,C02-BTR21-290-SL03,Bandhavgarh,90,95,84,1,C02-BTR21-290,Winter,2,7,None,None,Low,Yes,65,Fresh,15,SALIVA,Post predation,AJAY
+270,C02-BTR21-290-SL04,Bandhavgarh,3,95,3,0,C02-BTR21-290,Winter,2,7,None,None,Low,Yes,65,Fresh,15,SALIVA,Predation,AJAY
+274,C02-BTR21-299-SL01,Bandhavgarh,4,95,4,0,C02-BTR21-299,Winter,2,8,None,None,None,No,80,Eaten,50,SALIVA,Post predation,AJAY
+298,C02-BTR21-308-SL01,Bandhavgarh,38,95,36,0,C02-BTR21-308,Winter,2,8,Low,None,Low,No,40,Fresh,5,SALIVA,Post predation,AJAY
+299,C02-BTR21-308-SL02,Bandhavgarh,59,95,56,1,C02-BTR21-308,Winter,2,8,Low,None,Low,No,40,Fresh,5,SALIVA,Post predation,AJAY
+300,C02-BTR21-308-SL03,Bandhavgarh,71,95,68,1,C02-BTR21-308,Winter,2,8,Low,None,Low,No,40,Fresh,5,SALIVA,Post predation,AJAY
+301,C02-BTR21-308-SL04,Bandhavgarh,0,95,0,0,C02-BTR21-308,Winter,2,8,Low,None,Low,No,40,Fresh,5,SALIVA,Predation,AJAY
+306,C02-BTR21-309-SL01,Bandhavgarh,83,95,79,1,C02-BTR21-309,Winter,1,8,None,None,None,No,60,Fresh,65,SALIVA,Post predation,AJAY
+307,C02-BTR21-309-SL01,Bandhavgarh,83,95,79,1,C02-BTR21-309,Winter,1,8,None,None,None,No,60,Fresh,65,SALIVA,Post predation,AJAY
+308,C02-BTR21-309-SL02,Bandhavgarh,79,95,76,1,C02-BTR21-309,Winter,1,8,None,None,None,No,60,Fresh,65,SALIVA,Post predation,AJAY
+309,C02-BTR21-309-SL02,Bandhavgarh,79,95,76,1,C02-BTR21-309,Winter,1,8,None,None,None,No,60,Fresh,65,SALIVA,Post predation,AJAY
+310,C02-BTR21-309-SL03,Bandhavgarh,76,95,72,1,C02-BTR21-309,Winter,1,8,None,None,None,No,60,Fresh,65,SALIVA,Predation,AJAY
+315,C02-BTR21-315-SL01,Bandhavgarh,107,95,95,1,C02-BTR21-315,Winter,2,7,None,None,None,No,75,Fresh,55,SALIVA,Post predation,AJAY
+316,C02-BTR21-315-SL02,Bandhavgarh,74,95,72,1,C02-BTR21-315,Winter,2,7,None,None,None,No,75,Fresh,55,SALIVA,Post predation,AJAY
+324,C02-BTR21-317-SL01,Bandhavgarh,44,95,42,0,C02-BTR21-317,Winter,1,6,None,None,None,No,30,Fresh,40,SALIVA,Predation,AJAY
+325,C02-BTR21-317-SL02,Bandhavgarh,10,95,9,0,C02-BTR21-317,Winter,1,6,None,None,None,No,30,Fresh,40,SALIVA,Post predation,AJAY
+326,C02-BTR21-317-SL03,Bandhavgarh,72,95,69,1,C02-BTR21-317,Winter,1,6,None,None,None,No,30,Fresh,40,SALIVA,Post predation,AJAY
+330,C02-BTR21-318-SL01,Bandhavgarh,7,95,7,0,C02-BTR21-318,Winter,1,4,None,None,None,No,55,Fresh,10,SALIVA,Predation,AJAY
+331,C02-BTR21-318-SL02,Bandhavgarh,45,95,43,0,C02-BTR21-318,Winter,1,4,None,None,None,No,55,Fresh,10,SALIVA,Post predation,AJAY
+332,C02-BTR21-318-SL03,Bandhavgarh,54,95,52,1,C02-BTR21-318,Winter,1,4,None,None,None,No,55,Fresh,10,SALIVA,Post predation,AJAY
+337,C02-BTR21-322-SL01,Bandhavgarh,9,95,9,0,C02-BTR21-322,Winter,2,8,Low,None,None,No,75,Fresh,20,SALIVA,Post predation,AJAY
+338,C02-BTR21-322-SL02,Bandhavgarh,16,95,16,0,C02-BTR21-322,Winter,2,8,Low,None,None,No,75,Fresh,20,SALIVA,Post predation,AJAY
+342,C02-BTR21-328-SL01,Bandhavgarh,7,95,7,0,C02-BTR21-328,Winter,2,7.5,Low,Low,Low,No,40,Fresh,10,SALIVA,Predation,AJAY
+343,C02-BTR21-328-SL02,Bandhavgarh,5,95,5,0,C02-BTR21-328,Winter,2,7.5,Low,Low,Low,No,40,Fresh,10,SALIVA,Post predation,AJAY
+354,C02-BTR22-337-SL01,Bandhavgarh,10,95,10,0,C02-BTR21-337,Winter,2,7.5,None,None,None,No,70,Fresh,20,SALIVA,Predation,AJAY
+355,C02-BTR22-337-SL02,Bandhavgarh,42,95,40,0,C02-BTR21-337,Winter,2,7.5,None,None,None,No,70,Fresh,20,SALIVA,Post predation,AJAY
+356,C02-BTR22-337-SL03,Bandhavgarh,45,95,43,0,C02-BTR21-337,Winter,2,7.5,None,None,None,No,70,Fresh,20,SALIVA,Post predation,AJAY
+359,C02-BTR22-339-SL01,Bandhavgarh,48,95,46,1,C02-BTR21-339,Winter,2,8,None,None,None,No,65,Fresh,10,SALIVA,Predation,AJAY
+360,C02-BTR22-339-SL02,Bandhavgarh,13,95,13,0,C02-BTR21-339,Winter,2,8,None,None,None,No,65,Fresh,10,SALIVA,Post predation,AJAY
+365,C02-BTR22-340-SL01,Bandhavgarh,26,95,25,0,C02-BTR21-340,Winter,1,7,None,None,None,No,10,Fresh,10,SALIVA,Predation,AJAY
+366,C02-BTR22-340-SL02,Bandhavgarh,7,95,7,0,C02-BTR21-340,Winter,1,7,None,None,None,No,10,Fresh,10,SALIVA,Post predation,AJAY
+369,C04-BTR21-035-SL01,Bandhavgarh,10,95,10,0,C04-BTR21-035,Summer,1,8.5,Low,Low,High,Yes,15,Bloated,45,SALIVA,Predation,ROUNAK
+370,C04-BTR21-035-SL02,Bandhavgarh,5,95,5,0,C04-BTR21-035,Summer,1,8.5,Low,Low,High,Yes,15,Bloated,45,SALIVA,Post predation,ROUNAK
+380,C04-BTR21-040-SL01,Bandhavgarh,8,95,8,0,C04-BTR21-040,Summer,1,4.5,Low,Low,Low,Yes,5,Fresh,75,SALIVA,Predation,ROUNAK
+381,C04-BTR21-040-SL02,Bandhavgarh,7,95,7,0,C04-BTR21-040,Summer,1,4.5,Low,Low,Low,Yes,5,Fresh,75,SALIVA,Post predation,ROUNAK
+395,C04-BTR21-066-SL01,Bandhavgarh,6,95,6,0,C04-BTR21-066,Monsoon,2,8.5,Low,Low,Low,No,15,Bloated,0,SALIVA,Post predation,ROUNAK
+397,C04-BTR21-074-SL01,Bandhavgarh,4,95,4,0,C04-BTR21-074,Monsoon,2,3.5,Low,Low,Low,No,85,Eaten,85,SALIVA,Post predation,ROUNAK
+409,C04-BTR21-078-SL01,Bandhavgarh,5,95,5,0,C04-BTR21-078,Monsoon,1,3.5,Low,None,Low,No,25,Fresh,25,SALIVA,Predation,ROUNAK
+410,C04-BTR21-078-SL02,Bandhavgarh,38,95,36,0,C04-BTR21-078,Monsoon,1,3.5,Low,None,Low,No,25,Fresh,25,SALIVA,Post predation,ROUNAK
+411,C04-BTR21-078-SL03,Bandhavgarh,8,95,8,0,C04-BTR21-078,Monsoon,1,3.5,Low,None,Low,No,25,Fresh,25,SALIVA,Post predation,ROUNAK
+412,C04-BTR21-083-SL01,Bandhavgarh,5,95,5,0,C04-BTR21-083,Monsoon,2,3.5,Low,Low,Low,No,95,Eaten,75,SALIVA,Post predation,ROUNAK
+419,C04-BTR21-087-SL01,Bandhavgarh,79,95,75,1,C04-BTR21-087,Monsoon,2,9.5,Low,Low,Low,No,45,Bloated,25,SALIVA,Post predation,ROUNAK
+424,C04-BTR21-088-SL01,Bandhavgarh,7,95,7,0,C04-BTR21-088,Monsoon,1,5.5,Low,Low,Low,No,85,Fresh,85,SALIVA,Predation,ROUNAK
+425,C04-BTR21-088-SL02,Bandhavgarh,39,95,38,0,C04-BTR21-088,Monsoon,1,5.5,Low,Low,Low,No,85,Fresh,85,SALIVA,Predation,ROUNAK
+430,C04-BTR21-089-SL01,Bandhavgarh,6,95,6,0,C04-BTR21-089,Monsoon,2,2.5,Low,None,Low,No,75,Fresh,75,SALIVA,Post predation,ROUNAK
+431,C04-BTR21-089-SL02,Bandhavgarh,5,95,5,0,C04-BTR21-089,Monsoon,2,2.5,Low,None,Low,No,75,Fresh,75,SALIVA,Post predation,ROUNAK
+433,C04-BTR21-090-SL01,Bandhavgarh,3,95,3,0,C04-BTR21-090,Monsoon,1,5.5,Low,Low,High,No,15,Fresh,15,SALIVA,Post predation,ROUNAK
+434,C04-BTR21-090-SL02,Bandhavgarh,105,95,95,1,C04-BTR21-090,Monsoon,1,5.5,Low,Low,High,No,15,Fresh,15,SALIVA,Post predation,ROUNAK
+441,C04-BTR21-092-SL01,Bandhavgarh,5,95,5,0,C04-BTR21-092,Monsoon,1,7.5,Low,None,Low,No,25,Fresh,15,SALIVA,Predation,ROUNAK
+442,C04-BTR21-092-SL02,Bandhavgarh,61,95,57,1,C04-BTR21-092,Monsoon,1,7.5,Low,None,Low,No,25,Fresh,15,SALIVA,Post predation,ROUNAK
+464,C04-BTR21-125-SL01,Bandhavgarh,4,95,4,0,C04-BTR21-125,Winter,2,8.5,Low,None,Low,No,65,Decay,25,SALIVA,Post predation,ROUNAK
+465,C04-BTR21-125-SL02,Bandhavgarh,4,95,4,0,C04-BTR21-125,Winter,2,8.5,Low,None,Low,No,65,Decay,25,SALIVA,Post predation,ROUNAK
+476,C04-BTR21-127-SL01,Bandhavgarh,68,95,62,1,C04-BTR21-127,Winter,2,5.5,Low,None,None,No,75,Eaten,75,SALIVA,Post predation,ROUNAK
+477,C04-BTR21-127-SL02,Bandhavgarh,48,95,46,1,C04-BTR21-127,Winter,2,5.5,Low,None,None,No,75,Eaten,75,SALIVA,Post predation,ROUNAK
+478,C04-BTR21-127-SL02,Bandhavgarh,48,95,46,1,C04-BTR21-127,Winter,2,5.5,Low,None,None,No,75,Eaten,75,SALIVA,Post predation,ROUNAK
+480,C04-BTR21-129-SL01,Bandhavgarh,9,95,9,0,C04-BTR21-129,Winter,2,7.5,Low,None,Low,No,15,Bloated,15,SALIVA,Predation,ROUNAK
+481,C04-BTR21-129-SL02,Bandhavgarh,54,95,52,1,C04-BTR21-129,Winter,2,7.5,Low,None,Low,No,15,Bloated,15,SALIVA,Post predation,ROUNAK
+484,C04-BTR21-130-SL01,Bandhavgarh,25,95,25,0,C04-BTR21-130,Winter,2,7.5,Low,None,None,No,95,Dry/eaten,25,SALIVA,Post predation,ROUNAK
+485,C04-BTR21-130-SL02,Bandhavgarh,4,95,4,0,C04-BTR21-130,Winter,2,7.5,Low,None,None,No,95,Dry/eaten,25,SALIVA,Predation,ROUNAK
+490,C04-BTR21-131-SL01,Bandhavgarh,97,95,91,1,C04-BTR21-131,Winter,1,7.5,Low,None,Medium,No,45,Fresh,25,SALIVA,Predation,ROUNAK
+491,C04-BTR21-131-SL02,Bandhavgarh,57,95,55,1,C04-BTR21-131,Winter,1,7.5,Low,None,Medium,No,45,Fresh,25,SALIVA,Post predation,ROUNAK
+496,C04-BTR21-132-SL01,Bandhavgarh,98,95,93,1,C04-BTR21-132,Winter,2,7.5,Low,None,Low,No,85,Eaten,15,SALIVA,Post predation,ROUNAK
+497,C04-BTR21-132-SL02,Bandhavgarh,99,95,91,1,C04-BTR21-132,Winter,2,7.5,Low,None,Low,No,85,Eaten,15,SALIVA,Post predation,ROUNAK
+498,C04-BTR21-132-SL03,Bandhavgarh,107,95,95,1,C04-BTR21-132,Winter,2,7.5,Low,None,Low,No,85,Eaten,15,SALIVA,Post predation,ROUNAK
+515,C04-BTR22-133-SL01,Bandhavgarh,39,95,38,0,C04-BTR22-133,Winter,2,7.5,Low,None,Low,No,65,Bloated,25,SALIVA,Predation,ROUNAK
+516,C04-BTR22-133-SL02,Bandhavgarh,4,95,4,0,C04-BTR22-133,Winter,2,7.5,Low,None,Low,No,65,Bloated,25,SALIVA,Post predation,ROUNAK
+518,C04-BTR22-134-SL01,Bandhavgarh,0,95,0,0,C04-BTR22-134,Winter,2,8.5,Low,None,Medium,No,35,Fresh,85,SALIVA,Post predation,ROUNAK
+519,C04-BTR22-134-SL02,Bandhavgarh,6,95,6,0,C04-BTR22-134,Winter,2,8.5,Low,None,Medium,No,35,Fresh,85,SALIVA,Predation,ROUNAK
+526,C04-BTR22-135-SL01,Bandhavgarh,74,95,70,1,C04-BTR22-135,Winter,2,7.5,Low,None,Low,No,65,Fresh,65,SALIVA,Predation,ROUNAK
+527,C04-BTR22-135-SL02,Bandhavgarh,47,95,43,0,C04-BTR22-135,Winter,2,7.5,Low,None,Low,No,65,Fresh,65,SALIVA,Post predation,ROUNAK
+531,C04-BTR22-136-SL01,Bandhavgarh,12,95,12,0,C04-BTR22-136,Winter,3,8.5,Low,None,Medium,No,45,Fresh,0,SALIVA,Predation,ROUNAK
+532,C04-BTR22-136-SL02,Bandhavgarh,3,95,3,0,C04-BTR22-136,Winter,3,8.5,Low,None,Medium,No,45,Fresh,0,SALIVA,Post predation,ROUNAK
+535,C04-BTR22-137-SL01,Bandhavgarh,3,95,3,0,C04-BTR22-137,Winter,3,8.5,Low,None,Low,No,15,Fresh,25,SALIVA,Post predation,ROUNAK
+536,C04-BTR22-137-SL02,Bandhavgarh,0,95,0,0,C04-BTR22-137,Winter,3,8.5,Low,None,Low,No,15,Fresh,25,SALIVA,Post predation,ROUNAK
+538,C04-BTR22-138-SL01,Bandhavgarh,68,95,65,1,C04-BTR22-138,Winter,1,9.5,Low,None,Low,No,15,Fresh,5,SALIVA,Predation,ROUNAK
+539,C04-BTR22-138-SL02,Bandhavgarh,84,95,79,1,C04-BTR22-138,Winter,1,9.5,Low,None,Low,No,15,Fresh,5,SALIVA,Post predation,ROUNAK
+545,C04-BTR22-139-SL01,Bandhavgarh,91,95,85,1,C04-BTR22-139,Winter,0,3,Low,None,Low,No,65,Fresh,35,SALIVA,Predation,ROUNAK
+546,C04-BTR22-139-SL02,Bandhavgarh,94,95,88,1,C04-BTR22-139,Winter,0,3,Low,None,Low,No,65,Fresh,35,SALIVA,Post predation,ROUNAK
+547,C04-BTR22-139-SL02,Bandhavgarh,94,95,88,1,C04-BTR22-139,Winter,0,3,Low,None,Low,No,65,Fresh,35,SALIVA,Post predation,ROUNAK
+551,C04-BTR22-144-SL01,Bandhavgarh,95,95,89,1,C04-BTR22-144,Winter,1,7.5,Low,None,Low,No,5,Fresh,75,SALIVA,Predation,ROUNAK
+552,C04-BTR22-144-SL02,Bandhavgarh,102,95,92,1,C04-BTR22-144,Winter,1,7.5,Low,None,Low,No,5,Fresh,75,SALIVA,Post predation,ROUNAK
+557,C04-BTR22-145-SL01,Bandhavgarh,47,95,46,1,C04-BTR22-145,Winter,2,3.5,Low,None,Low,No,85,Fresh,65,SALIVA,Predation,ROUNAK
+558,C04-BTR22-145-SL02,Bandhavgarh,6,95,6,0,C04-BTR22-145,Winter,2,3.5,Low,None,Low,No,85,Fresh,65,SALIVA,Post predation,ROUNAK
+563,C04-BTR22-147-SL01,Bandhavgarh,87,95,83,1,C04-BTR22-147,Winter,0,4.5,Low,None,None,No,5,Bloated,95,SALIVA,Predation,ROUNAK
+564,C04-BTR22-147-SL02,Bandhavgarh,51,95,48,1,C04-BTR22-147,Winter,0,4.5,Low,None,None,No,5,Bloated,95,SALIVA,Post predation,ROUNAK
+567,C04-BTR22-148-SL01,Bandhavgarh,4,95,4,0,C04-BTR22-148,Winter,2,7.5,Low,None,Low,No,85,Eaten,25,SALIVA,Predation,ROUNAK
+570,C04-BTR22-149-SL01,Bandhavgarh,4,95,4,0,C04-BTR22-149,Winter,1,9.5,Medium,None,Medium,No,5,Bloated,0,SALIVA,Predation,ROUNAK
+571,C04-BTR22-149-SL02,Bandhavgarh,100,95,92,1,C04-BTR22-149,Winter,1,9.5,Medium,None,Medium,No,5,Bloated,0,SALIVA,Post predation,ROUNAK
+574,C04-BTR22-151-SL01,Bandhavgarh,60,95,58,1,C04-BTR22-151,Winter,2,5.5,Low,None,Low,No,75,Bloated,95,SALIVA,Predation,ROUNAK
+575,C04-BTR22-151-SL02,Bandhavgarh,47,95,44,0,C04-BTR22-151,Winter,2,5.5,Low,None,Low,No,75,Bloated,95,SALIVA,Post predation,ROUNAK
+578,C04-BTR22-152-SL01,Bandhavgarh,2,95,2,0,C04-BTR22-152,Winter,0,7.5,Medium,None,Low,No,25,Bloated,75,SALIVA,Predation,ROUNAK
+614,C04-BTR22-178-SL01,Bandhavgarh,81,95,77,1,C04-BTR22-178,Summer,1,8.5,Low,Low,Medium,No,45,Bloated,35,SALIVA,Post predation,ROUNAK
+615,C04-BTR22-178-SL01,Bandhavgarh,81,95,77,1,C04-BTR22-178,Summer,1,8.5,Low,Low,Medium,No,45,Bloated,35,SALIVA,Post predation,ROUNAK
+616,C04-BTR22-178-SL02,Bandhavgarh,60,95,56,1,C04-BTR22-178,Summer,1,8.5,Low,Low,Medium,No,45,Bloated,35,SALIVA,Post predation,ROUNAK
+617,C04-BTR22-178-SL03,Bandhavgarh,69,95,65,1,C04-BTR22-178,Summer,1,8.5,Low,Low,Medium,No,45,Bloated,35,SALIVA,Post predation,ROUNAK
+618,C04-BTR22-178-SL03,Bandhavgarh,69,95,65,1,C04-BTR22-178,Summer,1,8.5,Low,Low,Medium,No,45,Bloated,35,SALIVA,Post predation,ROUNAK
+624,C04-BTR22-179-SL01,Bandhavgarh,3,95,3,0,C04-BTR22-179,Summer,1,5.5,Low,Low,Medium,No,5,Bloated,65,SALIVA,Predation,ROUNAK
+625,C04-BTR22-179-SL02,Bandhavgarh,4,95,4,0,C04-BTR22-179,Summer,1,5.5,Low,Low,Medium,No,5,Bloated,65,SALIVA,Post predation,ROUNAK
+626,C04-BTR22-179-SL03,Bandhavgarh,34,95,32,0,C04-BTR22-179,Summer,1,5.5,Low,Low,Medium,No,5,Bloated,65,SALIVA,Post predation,ROUNAK
+633,C04-BTR22-181-SL01,Bandhavgarh,103,95,94,1,C04-BTR22-181,Summer,0,8.5,Low,None,Medium,No,5,Fresh,25,SALIVA,Predation,ROUNAK
+634,C04-BTR22-181-SL01,Bandhavgarh,103,95,94,1,C04-BTR22-181,Summer,0,8.5,Low,None,Medium,No,5,Fresh,25,SALIVA,Predation,ROUNAK
+635,C04-BTR22-181-SL02,Bandhavgarh,52,95,49,1,C04-BTR22-181,Summer,0,8.5,Low,None,Medium,No,5,Fresh,25,SALIVA,Post predation,ROUNAK
+636,C04-BTR22-181-SL02,Bandhavgarh,52,95,49,1,C04-BTR22-181,Summer,0,8.5,Low,None,Medium,No,5,Fresh,25,SALIVA,Post predation,ROUNAK
+637,C04-BTR22-181-SL03,Bandhavgarh,82,95,78,1,C04-BTR22-181,Summer,0,8.5,Low,None,Medium,No,5,Fresh,25,SALIVA,Post predation,ROUNAK
+642,C04-BTR22-182-SL01,Bandhavgarh,105,95,93,1,C04-BTR22-182,Summer,0,4.5,None,None,Low,No,5,Fresh,0,SALIVA,Predation,ROUNAK
+643,C04-BTR22-182-SL01,Bandhavgarh,105,95,93,1,C04-BTR22-182,Summer,0,4.5,None,None,Low,No,5,Fresh,0,SALIVA,Predation,ROUNAK
+10,C02-BTR21-046-SH01,Bandhavgarh,83,95,77,1,C02-BTR21-46,Summer,0,9,Low,None,Low,No,25,,0,SHED HAIR,Post predation,AJAY
+14,C02-BTR21-050-SH01,Bandhavgarh,104,95,95,1,C02-BTR21-50,Summer,2,5.5,Low,None,Low,No,75,,70,SHED HAIR,Post predation,AJAY
+15,C02-BTR21-050-SH02,Bandhavgarh,103,95,93,1,C02-BTR21-50,Summer,2,5.5,Low,None,Low,No,75,,70,SHED HAIR,Post predation,AJAY
+18,C02-BTR21-054-SH01,Bandhavgarh,67,95,63,1,C02-BTR21-54,Summer,1,8.5,Low,None,Low,No,75,,25,SHED HAIR,Post predation,AJAY
+19,C02-BTR21-054-SH02,Bandhavgarh,48,95,45,1,C02-BTR21-54,Summer,1,8.5,Low,None,Low,No,75,,25,SHED HAIR,Post predation,AJAY
+26,C02-BTR21-057-SH01,Bandhavgarh,2,95,2,0,C02-BTR21-57,Summer,1,3.5,Low,None,Low,No,85,,30,SHED HAIR,Post predation,AJAY
+29,C02-BTR21-059-SH01,Bandhavgarh,93,95,87,1,C02-BTR21-59,Summer,0,7.5,Low,None,Low,No,25,,0,SHED HAIR,Post predation,AJAY
+30,C02-BTR21-059-SH02,Bandhavgarh,85,95,80,1,C02-BTR21-59,Summer,0,7.5,Low,None,Low,No,25,,0,SHED HAIR,Post predation,AJAY
+36,C02-BTR21-062-SH01,Bandhavgarh,90,95,86,1,C02-BTR21-62,Summer,0,8.5,Low,None,Low,No,25,,75,SHED HAIR,Predation,AJAY
+37,C02-BTR21-062-SH02,Bandhavgarh,77,95,73,1,C02-BTR21-62,Summer,0,8.5,Low,None,Low,No,25,,75,SHED HAIR,Post predation,AJAY
+38,C02-BTR21-062-SH03,Bandhavgarh,91,95,85,1,C02-BTR21-62,Summer,0,8.5,Low,None,Low,No,25,,75,SHED HAIR,Post predation,AJAY
+45,C02-BTR21-065-SH01,Bandhavgarh,94,95,87,1,C02-BTR21-65,Summer,1,8.5,Low,None,Low,No,35,,5,SHED HAIR,Post predation,AJAY
+55,C02-BTR21-078-SH01,Bandhavgarh,103,95,94,1,C02-BTR21-78,Summer,2,7.5,Low,None,High,No,75,,0,SHED HAIR,Post predation,AJAY
+56,C02-BTR21-078-SH02,Bandhavgarh,7,95,7,0,C02-BTR21-78,Summer,2,7.5,Low,None,High,No,75,,0,SHED HAIR,Post predation,AJAY
+59,C02-BTR21-094-SH01,Bandhavgarh,99,95,92,1,C02-BTR21-94,Summer,0,3.5,Low,None,Low,No,75,,0,SHED HAIR,Post predation,AJAY
+60,C02-BTR21-094-SH02,Bandhavgarh,78,95,73,1,C02-BTR21-94,Summer,0,3.5,Low,None,Low,No,75,,0,SHED HAIR,Post predation,AJAY
+63,C02-BTR21-098-SH01,Bandhavgarh,97,95,91,1,C02-BTR21-98,Summer,0,7.5,Low,None,Low,Yes,0,,65,SHED HAIR,Predation,AJAY
+64,C02-BTR21-098-SH02,Bandhavgarh,102,95,93,1,C02-BTR21-98,Summer,0,7.5,Low,None,Low,Yes,0,,65,SHED HAIR,Post predation,AJAY
+66,C02-BTR21-100-SH01,Bandhavgarh,66,95,62,1,C02-BTR21-100,Summer,1,7.5,Low,Low,High,Yes,15,,5,SHED HAIR,Post predation,AJAY
+69,C02-BTR21-102-SH01,Bandhavgarh,83,95,78,1,C02-BTR21-102,Summer,1,7.5,Low,None,High,Yes,0,,0,SHED HAIR,Post predation,AJAY
+70,C02-BTR21-102-SH02,Bandhavgarh,38,95,36,0,C02-BTR21-102,Summer,1,7.5,Low,None,High,Yes,0,,0,SHED HAIR,Post predation,AJAY
+73,C02-BTR21-105-SH01,Bandhavgarh,75,95,71,1,C02-BTR21-105,Summer,1,8.5,Low,Low,Medium,No,35,,0,SHED HAIR,Post predation,AJAY
+74,C02-BTR21-105-SH02,Bandhavgarh,85,95,79,1,C02-BTR21-105,Summer,1,8.5,Low,Low,Medium,No,35,,0,SHED HAIR,Predation,AJAY
+77,C02-BTR21-112-SH01,Bandhavgarh,40,95,38,0,C02-BTR21-112,Summer,3,6.5,High,High,Medium,Yes,45,,0,SHED HAIR,Predation,AJAY
+78,C02-BTR21-112-SH02,Bandhavgarh,0,95,0,0,C02-BTR21-112,Summer,3,6.5,High,High,Medium,Yes,45,,0,SHED HAIR,Post predation,AJAY
+79,C02-BTR21-112-SH03,Bandhavgarh,8,95,8,0,C02-BTR21-112,Summer,3,6.5,High,High,Medium,Yes,45,,0,SHED HAIR,Post predation,AJAY
+81,C02-BTR21-113-SH01,Bandhavgarh,5,95,5,0,C02-BTR21-113,Summer,6,4.5,Low,Low,Low,Yes,95,,0,SHED HAIR,Post predation,AJAY
+82,C02-BTR21-113-SH02,Bandhavgarh,79,95,74,1,C02-BTR21-113,Summer,6,4.5,Low,Low,Low,Yes,95,,0,SHED HAIR,Predation,AJAY
+83,C02-BTR21-113-SH03,Bandhavgarh,0,95,0,0,C02-BTR21-113,Summer,6,4.5,Low,Low,Low,Yes,95,,0,SHED HAIR,Post predation,AJAY
+84,C02-BTR21-118-SH01,Bandhavgarh,55,95,52,1,C02-BTR21-118,Summer,0,10.5,Low,None,High,No,25,,25,SHED HAIR,Predation,AJAY
+85,C02-BTR21-118-SH02,Bandhavgarh,49,95,47,1,C02-BTR21-118,Summer,0,10.5,Low,None,High,No,25,,25,SHED HAIR,Post predation,AJAY
+86,C02-BTR21-118-SH03,Bandhavgarh,47,95,44,0,C02-BTR21-118,Summer,0,10.5,Low,None,High,No,25,,25,SHED HAIR,Post predation,AJAY
+90,C02-BTR21-127-SH01,Bandhavgarh,56,95,52,1,C02-BTR21-127,Summer,0,6.5,None,None,None,Yes,0,,75,SHED HAIR,Post predation,AJAY
+93,C02-BTR21-142-SH01,Bandhavgarh,9,95,9,0,C02-BTR21-142,Summer,1,8.5,Low,Low,High,Yes,15,,55,SHED HAIR,Post predation,AJAY
+96,C02-BTR21-143-SH01,Bandhavgarh,103,95,94,1,C02-BTR21-143,Summer,1,7.5,Low,None,Medium,No,15,,0,SHED HAIR,Post predation,AJAY
+97,C02-BTR21-143-SH02,Bandhavgarh,3,95,3,0,C02-BTR21-143,Summer,1,7.5,Low,None,Medium,No,15,,0,SHED HAIR,Post predation,AJAY
+101,C02-BTR21-146-SH01,Bandhavgarh,84,95,79,1,C02-BTR21-146,Summer,1,6.5,Low,None,High,Yes,5,Fresh,0,SHED HAIR,Post predation,AJAY
+105,C02-BTR21-154-SH01,Bandhavgarh,3,95,3,0,C02-BTR21-154,Monsoon,1,8.5,Low,None,Medium,No,25,Fresh,35,SHED HAIR,Predation,AJAY
+106,C02-BTR21-154-SH02,Bandhavgarh,70,95,65,1,C02-BTR21-154,Monsoon,1,8.5,Low,None,Medium,No,25,Fresh,35,SHED HAIR,Post predation,AJAY
+107,C02-BTR21-154-SH03,Bandhavgarh,38,95,35,0,C02-BTR21-154,Monsoon,1,8.5,Low,None,Medium,No,25,Fresh,35,SHED HAIR,Post predation,AJAY
+110,C02-BTR21-157-SH01,Bandhavgarh,3,95,3,0,C02-BTR21-157,Monsoon,1,5.5,Low,Low,Low,No,55,Fresh,5,SHED HAIR,Predation,AJAY
+111,C02-BTR21-157-SH02,Bandhavgarh,41,95,38,0,C02-BTR21-157,Monsoon,1,5.5,Low,Low,Low,No,55,Fresh,5,SHED HAIR,Post predation,AJAY
+113,C02-BTR21-162-SH01,Bandhavgarh,4,95,4,0,C02-BTR21-162,Monsoon,0,6.5,Low,Low,Low,Yes,25,Fresh,35,SHED HAIR,Post predation,AJAY
+114,C02-BTR21-164-SH01,Bandhavgarh,7,95,7,0,C02-BTR21-164,Monsoon,1,3.5,Low,None,Low,Yes,25,Fresh,65,SHED HAIR,Post predation,AJAY
+115,C02-BTR21-170-SH01,Bandhavgarh,26,95,25,0,C02-BTR21-170,Monsoon,1,7.5,Low,None,High,Yes,40,Fresh,10,SHED HAIR,Post predation,AJAY
+116,C02-BTR21-172-SH01,Bandhavgarh,90,95,85,1,C02-BTR21-172,Monsoon,1,2.5,Low,Low,Low,No,45,Fresh,75,SHED HAIR,Post predation,AJAY
+117,C02-BTR21-175-SH01,Bandhavgarh,85,95,81,1,C02-BTR21-175,Monsoon,1,6.5,Low,None,Medium,Yes,25,Fresh,5,SHED HAIR,Post predation,AJAY
+119,C02-BTR21-179-SH01,Bandhavgarh,0,95,0,0,C02-BTR21-179,Monsoon,1,6.5,Low,Low,Low,Yes,25,Fresh,65,SHED HAIR,Predation,AJAY
+120,C02-BTR21-180-SH01,Bandhavgarh,47,95,44,0,C02-BTR21-180,Monsoon,2,6.5,High,High,Low,No,75,Decay,85,SHED HAIR,Predation,AJAY
+121,C02-BTR21-180-SH02,Bandhavgarh,6,95,6,0,C02-BTR21-180,Monsoon,2,6.5,High,High,Low,No,75,Decay,85,SHED HAIR,Post predation,AJAY
+122,C02-BTR21-180-SH03,Bandhavgarh,0,95,0,0,C02-BTR21-180,Monsoon,2,6.5,High,High,Low,No,75,Decay,85,SHED HAIR,Post predation,AJAY
+123,C02-BTR21-200-SH01,Bandhavgarh,7,95,7,0,C02-BTR21-200,Monsoon,1,7.5,Low,None,Low,No,45,Fresh,25,SHED HAIR,Post predation,AJAY
+124,C02-BTR21-200-SH02,Bandhavgarh,22,95,22,0,C02-BTR21-200,Monsoon,1,7.5,Low,None,Low,No,45,Fresh,25,SHED HAIR,Post predation,AJAY
+125,C02-BTR21-200-SH03,Bandhavgarh,69,95,65,1,C02-BTR21-200,Monsoon,1,7.5,Low,None,Low,No,45,Fresh,25,SHED HAIR,Post predation,AJAY
+129,C02-BTR21-203-SH01,Bandhavgarh,60,95,56,1,C02-BTR21-203,Monsoon,0,8.5,None,None,Low,No,0,Fresh,0,SHED HAIR,Post predation,AJAY
+131,C02-BTR21-209-SH01,Bandhavgarh,4,95,4,0,C02-BTR21-209,Monsoon,1,5.5,Low,None,Low,Yes,45,Fresh,25,SHED HAIR,Predation,AJAY
+132,C02-BTR21-209-SH02,Bandhavgarh,49,95,46,1,C02-BTR21-209,Monsoon,1,5.5,Low,None,Low,Yes,45,Fresh,25,SHED HAIR,Post predation,AJAY
+133,C02-BTR21-209-SH03,Bandhavgarh,60,95,56,1,C02-BTR21-209,Monsoon,1,5.5,Low,None,Low,Yes,45,Fresh,25,SHED HAIR,Post predation,AJAY
+134,C02-BTR21-209-SH04,Bandhavgarh,7,95,7,0,C02-BTR21-209,Monsoon,1,5.5,Low,None,Low,Yes,45,Fresh,25,SHED HAIR,Post predation,AJAY
+138,C02-BTR21-211-SH01,Bandhavgarh,0,95,0,0,C02-BTR21-211,Monsoon,2,5.5,Low,None,None,No,95,Eaten,15,SHED HAIR,Predation,AJAY
+139,C02-BTR21-211-SH02,Bandhavgarh,58,95,54,1,C02-BTR21-211,Monsoon,2,5.5,Low,None,None,No,95,Eaten,15,SHED HAIR,Post predation,AJAY
+140,C02-BTR21-211-SH03,Bandhavgarh,96,95,89,1,C02-BTR21-211,Monsoon,2,5.5,Low,None,None,No,95,Eaten,15,SHED HAIR,Post predation,AJAY
+141,C02-BTR21-218-SH01,Bandhavgarh,65,95,62,1,C02-BTR21-218,Monsoon,2,7.5,High,High,Low,No,65,Decay,45,SHED HAIR,Predation,AJAY
+142,C02-BTR21-218-SH02,Bandhavgarh,67,95,65,1,C02-BTR21-218,Monsoon,2,7.5,High,High,Low,No,65,Decay,45,SHED HAIR,Post predation,AJAY
+143,C02-BTR21-218-SH03,Bandhavgarh,51,95,49,1,C02-BTR21-218,Monsoon,2,7.5,High,High,Low,No,65,Decay,45,SHED HAIR,Post predation,AJAY
+144,C02-BTR21-224-SH01,Bandhavgarh,47,95,44,0,C02-BTR21-224,Monsoon,3,7.5,Medium,None,Low,No,95,Eaten,25,SHED HAIR,Predation,AJAY
+145,C02-BTR21-224-SH02,Bandhavgarh,3,95,3,0,C02-BTR21-224,Monsoon,3,7.5,Medium,None,Low,No,95,Eaten,25,SHED HAIR,Post predation,AJAY
+146,C02-BTR21-224-SH03,Bandhavgarh,3,95,3,0,C02-BTR21-224,Monsoon,3,7.5,Medium,None,Low,No,95,Eaten,25,SHED HAIR,Post predation,AJAY
+147,C02-BTR21-227-SH01,Bandhavgarh,2,95,2,0,C02-BTR21-227,Monsoon,3,7.5,High,High,High,No,75,Decay,35,SHED HAIR,Predation,AJAY
+148,C02-BTR21-227-SH02,Bandhavgarh,5,95,5,0,C02-BTR21-227,Monsoon,3,7.5,High,High,High,No,75,Decay,35,SHED HAIR,Post predation,AJAY
+152,C02-BTR21-228-SH01,Bandhavgarh,20,95,19,0,C02-BTR21-228,Monsoon,2,5.5,Low,Low,High,No,75,Fresh,75,SHED HAIR,Predation,AJAY
+153,C02-BTR21-228-SH02,Bandhavgarh,59,95,56,1,C02-BTR21-228,Monsoon,2,5.5,Low,Low,High,No,75,Fresh,75,SHED HAIR,Post predation,AJAY
+154,C02-BTR21-228-SH03,Bandhavgarh,0,95,0,0,C02-BTR21-228,Monsoon,2,5.5,Low,Low,High,No,75,Fresh,75,SHED HAIR,Post predation,AJAY
+156,C02-BTR21-234-SH01,Bandhavgarh,78,95,72,1,C02-BTR21-234,Monsoon,2,7.5,Low,None,Medium,No,45,Fresh,25,SHED HAIR,Predation,AJAY
+157,C02-BTR21-234-SH02,Bandhavgarh,72,95,66,1,C02-BTR21-234,Monsoon,2,7.5,Low,None,Medium,No,45,Fresh,25,SHED HAIR,Post predation,AJAY
+158,C02-BTR21-234-SH03,Bandhavgarh,73,95,69,1,C02-BTR21-234,Monsoon,2,7.5,Low,None,Medium,No,45,Fresh,25,SHED HAIR,Post predation,AJAY
+159,C02-BTR21-236-SH01,Bandhavgarh,0,95,0,0,C02-BTR21-236,Monsoon,2,6.5,Low,None,High,No,45,Bloated,15,SHED HAIR,Predation,AJAY
+160,C02-BTR21-236-SH02,Bandhavgarh,0,95,0,0,C02-BTR21-236,Monsoon,2,6.5,Low,None,High,No,45,Bloated,15,SHED HAIR,Post predation,AJAY
+161,C02-BTR21-236-SH03,Bandhavgarh,0,95,0,0,C02-BTR21-236,Monsoon,2,6.5,Low,None,High,No,45,Bloated,15,SHED HAIR,Post predation,AJAY
+162,C02-BTR21-237-SH01,Bandhavgarh,64,95,60,1,C02-BTR21-237,Monsoon,1,8.5,Low,None,Low,No,45,Fresh,65,SHED HAIR,Post predation,AJAY
+163,C02-BTR21-237-SH02,Bandhavgarh,59,95,55,1,C02-BTR21-237,Monsoon,1,8.5,Low,None,Low,No,45,Fresh,65,SHED HAIR,Post predation,AJAY
+164,C02-BTR21-237-SH03,Bandhavgarh,66,95,60,1,C02-BTR21-237,Monsoon,1,8.5,Low,None,Low,No,45,Fresh,65,SHED HAIR,Post predation,AJAY
+167,C02-BTR21-242-SH01,Bandhavgarh,49,95,47,1,C02-BTR21-242,Winter,0,7.5,None,None,None,No,15,Fresh,0,SHED HAIR,Predation,AJAY
+168,C02-BTR21-242-SH02,Bandhavgarh,44,95,43,0,C02-BTR21-242,Winter,0,7.5,None,None,None,No,15,Fresh,0,SHED HAIR,Predation,AJAY
+173,C02-BTR21-243-SH01,Bandhavgarh,62,95,59,1,C02-BTR21-243,Winter,2,6.5,None,None,Low,No,65,Fresh,35,SHED HAIR,Post predation,AJAY
+174,C02-BTR21-243-SH02,Bandhavgarh,84,95,78,1,C02-BTR21-243,Winter,2,6.5,None,None,Low,No,65,Fresh,35,SHED HAIR,Post predation,AJAY
+178,C02-BTR21-249-SH01,Bandhavgarh,50,95,48,1,C02-BTR21-249,Winter,0,11,None,None,None,No,5,Fresh,0,SHED HAIR,Post predation,AJAY
+182,C02-BTR21-252-SH01,Bandhavgarh,55,95,52,1,C02-BTR21-252,Winter,1,2.5,None,None,Low,No,85,Fresh,15,SHED HAIR,Post predation,AJAY
+183,C02-BTR21-252-SH02,Bandhavgarh,2,95,2,0,C02-BTR21-252,Winter,1,2.5,None,None,Low,No,85,Fresh,15,SHED HAIR,Post predation,AJAY
+184,C02-BTR21-252-SH03,Bandhavgarh,49,95,46,1,C02-BTR21-252,Winter,1,2.5,None,None,Low,No,85,Fresh,15,SHED HAIR,Post predation,AJAY
+188,C02-BTR21-255-SH01,Bandhavgarh,46,95,44,0,C02-BTR21-255,Winter,2,7.5,None,None,Low,No,95,Fresh,15,SHED HAIR,Predation,AJAY
+189,C02-BTR21-255-SH02,Bandhavgarh,88,95,81,1,C02-BTR21-255,Winter,2,7.5,None,None,Low,No,95,Fresh,15,SHED HAIR,Post predation,AJAY
+190,C02-BTR21-255-SH03,Bandhavgarh,91,95,85,1,C02-BTR21-255,Winter,2,7.5,None,None,Low,No,95,Fresh,15,SHED HAIR,Post predation,AJAY
+193,C02-BTR21-257-SH01,Bandhavgarh,106,95,94,1,C02-BTR21-257,Winter,2,7.5,Low,None,None,No,95,Eaten,0,SHED HAIR,Predation,AJAY
+194,C02-BTR21-257-SH02,Bandhavgarh,60,95,56,1,C02-BTR21-257,Winter,2,7.5,Low,None,None,No,95,Eaten,0,SHED HAIR,Post predation,AJAY
+195,C02-BTR21-257-SH03,Bandhavgarh,97,95,90,1,C02-BTR21-257,Winter,2,7.5,Low,None,None,No,95,Eaten,0,SHED HAIR,Post predation,AJAY
+196,C02-BTR21-258-SH01,Bandhavgarh,96,95,89,1,C02-BTR21-258,Winter,1,4.5,Low,None,Low,No,15,Fresh,0,SHED HAIR,Predation,AJAY
+208,C02-BTR21-263-SH01,Bandhavgarh,96,95,90,1,C02-BTR21-263,Winter,1,7.5,None,None,None,No,30,,30,SHED HAIR,Predation,AJAY
+209,C02-BTR21-263-SH02,Bandhavgarh,104,95,94,1,C02-BTR21-263,Winter,1,7.5,None,None,None,No,30,,30,SHED HAIR,Post predation,AJAY
+210,C02-BTR21-263-SH03,Bandhavgarh,18,95,18,0,C02-BTR21-263,Winter,1,7.5,None,None,None,No,30,,30,SHED HAIR,Post predation,AJAY
+216,C02-BTR21-265-SH01,Bandhavgarh,105,95,95,1,C02-BTR21-265,Winter,2,7,None,None,Low,No,50,Fresh,35,SHED HAIR,Predation,AJAY
+217,C02-BTR21-265-SH02,Bandhavgarh,109,95,94,1,C02-BTR21-265,Winter,2,7,None,None,Low,No,50,Fresh,35,SHED HAIR,Post predation,AJAY
+218,C02-BTR21-265-SH03,Bandhavgarh,103,95,95,1,C02-BTR21-265,Winter,2,7,None,None,Low,No,50,Fresh,35,SHED HAIR,Post predation,AJAY
+219,C02-BTR21-265-SH04,Bandhavgarh,89,95,83,1,C02-BTR21-265,Winter,2,7,None,None,Low,No,50,Fresh,35,SHED HAIR,Post predation,AJAY
+258,C02-BTR21-290-SH01-A-B,Bandhavgarh,102,95,94,1,C02-BTR21-290,Winter,2,7,None,None,Low,Yes,65,Fresh,15,SHED HAIR,Post predation,AJAY
+259,C02-BTR21-290-SH02,Bandhavgarh,100,95,93,1,C02-BTR21-290,Winter,2,7,None,None,Low,Yes,65,Fresh,15,SHED HAIR,Post predation,AJAY
+260,C02-BTR21-290-SH03,Bandhavgarh,68,95,63,1,C02-BTR21-290,Winter,2,7,None,None,Low,Yes,65,Fresh,15,SHED HAIR,Post predation,AJAY
+261,C02-BTR21-290-SH04,Bandhavgarh,81,95,76,1,C02-BTR21-290,Winter,2,7,None,None,Low,Yes,65,Fresh,15,SHED HAIR,Post predation,AJAY
+262,C02-BTR21-290-SH05,Bandhavgarh,97,95,91,1,C02-BTR21-290,Winter,2,7,None,None,Low,Yes,65,Fresh,15,SHED HAIR,Post predation,AJAY
+263,C02-BTR21-290-SH06,Bandhavgarh,98,95,92,1,C02-BTR21-290,Winter,3,7,None,None,Low,Yes,65,Fresh,15,SHED HAIR,Post predation,AJAY
+264,C02-BTR21-290-SH07,Bandhavgarh,1,95,1,0,C02-BTR21-290,Winter,3,7,None,None,Low,Yes,65,Fresh,15,SHED HAIR,Post predation,AJAY
+273,C02-BTR21-299-SH01,Bandhavgarh,78,95,74,1,C02-BTR21-299,Winter,2,8,None,None,None,No,80,Eaten,50,SHED HAIR,Predation,AJAY
+275,C02-BTR21-300-SH01,Bandhavgarh,72,95,68,1,C02-BTR21-300,Winter,2,7,None,None,Low,No,70,Fresh,10,SHED HAIR,Predation,AJAY
+276,C02-BTR21-300-SH02,Bandhavgarh,79,95,73,1,C02-BTR21-300,Winter,2,7,None,None,Low,No,70,Fresh,10,SHED HAIR,Post predation,AJAY
+277,C02-BTR21-300-SH03,Bandhavgarh,67,95,62,1,C02-BTR21-300,Winter,2,7,None,None,Low,No,70,Fresh,10,SHED HAIR,Post predation,AJAY
+280,C02-BTR21-303-SH01,Bandhavgarh,86,95,80,1,C02-BTR21-303,Winter,2,9,Low,None,None,No,35,Eaten,35,SHED HAIR,Predation,AJAY
+281,C02-BTR21-303-SH02,Bandhavgarh,90,95,81,1,C02-BTR21-303,Winter,2,9,Low,None,None,No,35,Eaten,35,SHED HAIR,Post predation,AJAY
+282,C02-BTR21-303-SH03,Bandhavgarh,11,95,11,0,C02-BTR21-303,Winter,2,9,Low,None,None,No,35,Eaten,35,SHED HAIR,Post predation,AJAY
+288,C02-BTR21-308-SH01,Bandhavgarh,38,95,36,0,C02-BTR21-308,Winter,2,8,Low,None,Low,No,40,Fresh,5,SHED HAIR,Post predation,AJAY
+290,C02-BTR21-308-SH02,Bandhavgarh,97,95,89,1,C02-BTR21-308,Winter,2,8,Low,None,Low,No,40,Fresh,5,SHED HAIR,Post predation,AJAY
+291,C02-BTR21-308-SH03,Bandhavgarh,73,95,68,1,C02-BTR21-308,Winter,2,8,Low,None,Low,No,40,Fresh,5,SHED HAIR,Post predation,AJAY
+292,C02-BTR21-308-SH04,Bandhavgarh,101,95,94,1,C02-BTR21-308,Winter,2,8,Low,None,Low,No,40,Fresh,5,SHED HAIR,Post predation,AJAY
+302,C02-BTR21-309-SH01,Bandhavgarh,89,95,83,1,C02-BTR21-309,Winter,1,8,None,None,None,No,60,Fresh,65,SHED HAIR,Post predation,AJAY
+303,C02-BTR21-309-SH01,Bandhavgarh,89,95,83,1,C02-BTR21-309,Winter,1,8,None,None,None,No,60,Fresh,65,SHED HAIR,Post predation,AJAY
+304,C02-BTR21-309-SH02,Bandhavgarh,94,95,85,1,C02-BTR21-309,Winter,1,8,None,None,None,No,60,Fresh,65,SHED HAIR,Post predation,AJAY
+305,C02-BTR21-309-SH02,Bandhavgarh,94,95,85,1,C02-BTR21-309,Winter,1,8,None,None,None,No,60,Fresh,65,SHED HAIR,Post predation,AJAY
+312,C02-BTR21-315-SH01,Bandhavgarh,82,95,77,1,C02-BTR21-315,Winter,2,7,None,None,None,No,75,Fresh,55,SHED HAIR,Predation,AJAY
+313,C02-BTR21-315-SH02,Bandhavgarh,93,95,84,1,C02-BTR21-315,Winter,2,7,None,None,None,No,75,Fresh,55,SHED HAIR,Predation,AJAY
+314,C02-BTR21-315-SH03,Bandhavgarh,86,95,80,1,C02-BTR21-315,Winter,2,7,None,None,None,No,75,Fresh,55,SHED HAIR,Post predation,AJAY
+317,C02-BTR21-317-SH01,Bandhavgarh,85,95,80,1,C02-BTR21-317,Winter,1,6,None,None,None,No,30,Fresh,40,SHED HAIR,Predation,AJAY
+319,C02-BTR21-317-SH02,Bandhavgarh,33,95,31,0,C02-BTR21-317,Winter,1,6,None,None,None,No,30,Fresh,40,SHED HAIR,Post predation,AJAY
+321,C02-BTR21-317-SH03,Bandhavgarh,102,95,92,1,C02-BTR21-317,Winter,1,6,None,None,None,No,30,Fresh,40,SHED HAIR,Post predation,AJAY
+327,C02-BTR21-318-SH01,Bandhavgarh,103,95,91,1,C02-BTR21-318,Winter,1,4,None,None,None,No,55,Fresh,10,SHED HAIR,Post predation,AJAY
+328,C02-BTR21-318-SH02,Bandhavgarh,100,95,93,1,C02-BTR21-318,Winter,1,4,None,None,None,No,55,Fresh,10,SHED HAIR,Post predation,AJAY
+329,C02-BTR21-318-SH03,Bandhavgarh,88,95,82,1,C02-BTR21-318,Winter,1,4,None,None,None,No,55,Fresh,10,SHED HAIR,Post predation,AJAY
+333,C02-BTR21-322-SH01,Bandhavgarh,40,95,38,0,C02-BTR21-322,Winter,2,8,Low,None,None,No,75,Fresh,20,SHED HAIR,Predation,AJAY
+334,C02-BTR21-322-SH02,Bandhavgarh,46,95,43,0,C02-BTR21-322,Winter,2,8,Low,None,None,No,75,Fresh,20,SHED HAIR,Post predation,AJAY
+335,C02-BTR21-322-SH03,Bandhavgarh,44,95,42,0,C02-BTR21-322,Winter,2,8,Low,None,None,No,75,Fresh,20,SHED HAIR,Post predation,AJAY
+336,C02-BTR21-322-SH04,Bandhavgarh,52,95,48,1,C02-BTR21-322,Winter,2,8,Low,None,None,No,75,Fresh,20,SHED HAIR,Post predation,AJAY
+339,C02-BTR21-328-SH01,Bandhavgarh,57,95,55,1,C02-BTR21-328,Winter,2,7.5,Low,Low,Low,No,40,Fresh,10,SHED HAIR,Predation,AJAY
+340,C02-BTR21-328-SH02,Bandhavgarh,40,95,38,0,C02-BTR21-328,Winter,2,7.5,Low,Low,Low,No,40,Fresh,10,SHED HAIR,Post predation,AJAY
+341,C02-BTR21-328-SH03,Bandhavgarh,73,95,69,1,C02-BTR21-328,Winter,2,7.5,Low,Low,Low,No,40,Fresh,10,SHED HAIR,Post predation,AJAY
+344,C02-BTR22-337-SH01,Bandhavgarh,101,95,91,1,C02-BTR21-337,Winter,2,7.5,None,None,None,No,70,Fresh,20,SHED HAIR,Post predation,AJAY
+345,C02-BTR22-337-SH01,Bandhavgarh,101,95,91,1,C02-BTR21-337,Winter,2,7.5,None,None,None,No,70,Fresh,20,SHED HAIR,Post predation,AJAY
+346,C02-BTR22-337-SH02,Bandhavgarh,83,95,78,1,C02-BTR21-337,Winter,2,7.5,None,None,None,No,70,Fresh,20,SHED HAIR,Post predation,AJAY
+347,C02-BTR22-337-SH02,Bandhavgarh,83,95,78,1,C02-BTR21-337,Winter,2,7.5,None,None,None,No,70,Fresh,20,SHED HAIR,Post predation,AJAY
+348,C02-BTR22-337-SH03,Bandhavgarh,51,95,49,1,C02-BTR21-337,Winter,2,7.5,None,None,None,No,70,Fresh,20,SHED HAIR,Post predation,AJAY
+349,C02-BTR22-337-SH03,Bandhavgarh,51,95,49,1,C02-BTR21-337,Winter,2,7.5,None,None,None,No,70,Fresh,20,SHED HAIR,Post predation,AJAY
+357,C02-BTR22-339-SH01,Bandhavgarh,20,95,20,0,C02-BTR21-339,Winter,2,8,None,None,None,No,65,Fresh,10,SHED HAIR,Predation,AJAY
+362,C02-BTR22-340-SH01,Bandhavgarh,69,95,66,1,C02-BTR21-340,Winter,1,7,None,None,None,No,10,Fresh,10,SHED HAIR,Predation,AJAY
+363,C02-BTR22-340-SH02,Bandhavgarh,58,95,54,1,C02-BTR21-340,Winter,1,7,None,None,None,No,10,Fresh,10,SHED HAIR,Post predation,AJAY
+364,C02-BTR22-340-SH03,Bandhavgarh,46,95,44,0,C02-BTR21-340,Winter,1,7,None,None,None,No,10,Fresh,10,SHED HAIR,Post predation,AJAY
+367,C04-BTR21-035-SH01,Bandhavgarh,38,95,37,0,C04-BTR21-035,Summer,1,8.5,Low,Low,High,Yes,15,Bloated,45,SHED HAIR,Post predation,ROUNAK
+368,C04-BTR21-035-SH02,Bandhavgarh,7,95,7,0,C04-BTR21-035,Summer,1,8.5,Low,Low,High,Yes,15,Bloated,45,SHED HAIR,Predation,ROUNAK
+371,C04-BTR21-038-SH01,Bandhavgarh,6,95,6,0,C04-BTR21-038,Summer,1,8.5,Medium,Low,High,No,45,Bloated,0,SHED HAIR,Predation,ROUNAK
+372,C04-BTR21-038-SH02,Bandhavgarh,104,95,94,1,C04-BTR21-038,Summer,1,8.5,Medium,Low,High,No,45,Bloated,0,SHED HAIR,Post predation,ROUNAK
+373,C04-BTR21-038-SH03,Bandhavgarh,72,95,68,1,C04-BTR21-038,Summer,1,8.5,Medium,Low,High,No,45,Bloated,0,SHED HAIR,Post predation,ROUNAK
+374,C04-BTR21-038-SH04,Bandhavgarh,97,95,90,1,C04-BTR21-038,Summer,1,8.5,Medium,Low,High,No,45,Bloated,0,SHED HAIR,Post predation,ROUNAK
+375,C04-BTR21-038-SH05,Bandhavgarh,107,95,94,1,C04-BTR21-038,Summer,1,8.5,Medium,Low,High,No,45,Bloated,0,SHED HAIR,Post predation,ROUNAK
+376,C04-BTR21-038-SH06,Bandhavgarh,7,95,7,0,C04-BTR21-038,Summer,1,8.5,Medium,Low,High,No,45,Bloated,0,SHED HAIR,Post predation,ROUNAK
+377,C04-BTR21-040-SH01,Bandhavgarh,100,95,92,1,C04-BTR21-040,Summer,1,4.5,Low,Low,Low,Yes,5,Fresh,75,SHED HAIR,Post predation,ROUNAK
+378,C04-BTR21-040-SH02,Bandhavgarh,83,95,78,1,C04-BTR21-040,Summer,1,4.5,Low,Low,Low,Yes,5,Fresh,75,SHED HAIR,Post predation,ROUNAK
+379,C04-BTR21-040-SH03,Bandhavgarh,92,95,85,1,C04-BTR21-040,Summer,1,4.5,Medium,Medium,High,Yes,55,Bloated,75,SHED HAIR,Post predation,ROUNAK
+382,C04-BTR21-050-SH01,Bandhavgarh,35,95,32,0,C04-BTR21-050,Monsoon,1,8.5,Low,Low,Low,No,15,Fresh,75,SHED HAIR,Post predation,ROUNAK
+383,C04-BTR21-050-SH02,Bandhavgarh,0,95,0,0,C04-BTR21-050,Monsoon,1,8.5,Low,Low,Low,No,15,Fresh,75,SHED HAIR,Predation,ROUNAK
+384,C04-BTR21-051-SH01,Bandhavgarh,3,95,3,0,C04-BTR21-051,Monsoon,1,7.5,Low,None,Low,No,25,Fresh,75,SHED HAIR,Predation,ROUNAK
+385,C04-BTR21-051-SH02,Bandhavgarh,4,95,4,0,C04-BTR21-051,Monsoon,1,7.5,Low,None,Low,No,25,Fresh,75,SHED HAIR,Post predation,ROUNAK
+386,C04-BTR21-051-SH03,Bandhavgarh,0,95,0,0,C04-BTR21-051,Monsoon,1,7.5,Low,None,Low,No,25,Fresh,75,SHED HAIR,Post predation,ROUNAK
+387,C04-BTR21-053-SH01,Bandhavgarh,74,95,70,1,C04-BTR21-053,Monsoon,2,7.5,High,Medium,Medium,No,75,Bloated,75,SHED HAIR,Post predation,ROUNAK
+388,C04-BTR21-053-SH02,Bandhavgarh,4,95,4,0,C04-BTR21-053,Monsoon,2,7.5,High,Medium,Medium,No,75,Bloated,75,SHED HAIR,Post predation,ROUNAK
+389,C04-BTR21-053-SH03,Bandhavgarh,38,95,36,0,C04-BTR21-053,Monsoon,2,7.5,High,Medium,Medium,No,75,Bloated,75,SHED HAIR,Post predation,ROUNAK
+390,C04-BTR21-053-SH04,Bandhavgarh,84,95,78,1,C04-BTR21-053,Monsoon,2,7.5,High,Medium,Medium,No,75,Bloated,75,SHED HAIR,Post predation,ROUNAK
+391,C04-BTR21-054-SH01,Bandhavgarh,67,95,63,1,C04-BTR21-054,Monsoon,2,6.5,Low,Medium,Medium,No,45,Bloated,15,SHED HAIR,Post predation,ROUNAK
+392,C04-BTR21-054-SH02,Bandhavgarh,6,95,6,0,C04-BTR21-054,Monsoon,2,6.5,Low,Medium,Medium,No,45,Bloated,15,SHED HAIR,Predation,ROUNAK
+393,C04-BTR21-066-SH01,Bandhavgarh,0,95,0,0,C04-BTR21-066,Monsoon,2,8.5,Low,Low,Low,No,15,Bloated,0,SHED HAIR,Post predation,ROUNAK
+394,C04-BTR21-066-SH02,Bandhavgarh,4,95,4,0,C04-BTR21-066,Monsoon,2,8.5,Low,Low,Low,No,15,Bloated,0,SHED HAIR,Predation,ROUNAK
+396,C04-BTR21-074-SH02,Bandhavgarh,56,95,52,1,C04-BTR21-074,Monsoon,2,3.5,Low,Low,Low,No,85,Eaten,85,SHED HAIR,Post predation,ROUNAK
+398,C04-BTR21-075-SH01,Bandhavgarh,64,95,60,1,C04-BTR21-075,Monsoon,2,9.5,Low,Low,Low,No,95,Eaten,45,SHED HAIR,Post predation,ROUNAK
+399,C04-BTR21-075-SH01,Bandhavgarh,64,95,60,1,C04-BTR21-075,Monsoon,2,9.5,Low,Low,Low,No,95,Eaten,45,SHED HAIR,Post predation,ROUNAK
+400,C04-BTR21-075-SH02,Bandhavgarh,5,95,5,0,C04-BTR21-075,Monsoon,2,9.5,Low,Low,Low,No,95,Eaten,45,SHED HAIR,Predation,ROUNAK
+401,C04-BTR21-075-SH03-A-B,Bandhavgarh,6,95,6,0,C04-BTR21-075,Monsoon,2,9.5,Low,Low,Low,No,95,Eaten,45,SHED HAIR,Post predation,ROUNAK
+402,C04-BTR21-075-SH04,Bandhavgarh,62,95,58,1,C04-BTR21-075,Monsoon,2,9.5,Low,Low,Low,No,95,Eaten,45,SHED HAIR,Post predation,ROUNAK
+403,C04-BTR21-075-SH05,Bandhavgarh,5,95,5,0,C04-BTR21-075,Monsoon,2,9.5,Low,Low,Low,No,95,Eaten,45,SHED HAIR,Post predation,ROUNAK
+408,C04-BTR21-078-SH01,Bandhavgarh,84,95,79,1,C04-BTR21-078,Monsoon,1,3.5,Low,None,Low,No,25,Fresh,25,SHED HAIR,Post predation,ROUNAK
+417,C04-BTR21-087-SH01,Bandhavgarh,72,95,68,1,C04-BTR21-087,Monsoon,2,9.5,Low,Low,Low,No,45,Bloated,25,SHED HAIR,Predation,ROUNAK
+418,C04-BTR21-087-SH02,Bandhavgarh,45,95,44,0,C04-BTR21-087,Monsoon,2,9.5,Low,Low,Low,No,45,Bloated,25,SHED HAIR,Post predation,ROUNAK
+423,C04-BTR21-088-SH02,Bandhavgarh,6,95,6,0,C04-BTR21-088,Monsoon,1,5.5,Low,Low,Low,No,85,Fresh,85,SHED HAIR,Post predation,ROUNAK
+427,C04-BTR21-089-SH01,Bandhavgarh,0,95,0,0,C04-BTR21-089,Monsoon,2,2.5,Low,None,Low,No,75,Fresh,75,SHED HAIR,Predation,ROUNAK
+428,C04-BTR21-089-SH02,Bandhavgarh,4,95,4,0,C04-BTR21-089,Monsoon,2,2.5,Low,None,Low,No,75,Fresh,75,SHED HAIR,Post predation,ROUNAK
+429,C04-BTR21-089-SH03,Bandhavgarh,4,95,4,0,C04-BTR21-089,Monsoon,2,2.5,Low,None,Low,No,75,Fresh,75,SHED HAIR,Post predation,ROUNAK
+432,C04-BTR21-090-SH01,Bandhavgarh,49,95,47,1,C04-BTR21-090,Monsoon,1,5.5,Low,Low,High,No,15,Fresh,15,SHED HAIR,Post predation,ROUNAK
+435,C04-BTR21-091-SH01,Bandhavgarh,93,95,87,1,C04-BTR21-091,Monsoon,1,5.5,Low,Low,Low,No,75,Fresh,15,SHED HAIR,Post predation,ROUNAK
+436,C04-BTR21-091-SH02,Bandhavgarh,98,95,87,1,C04-BTR21-091,Monsoon,1,5.5,Low,Low,Low,No,75,Fresh,15,SHED HAIR,Post predation,ROUNAK
+437,C04-BTR21-091-SH03,Bandhavgarh,65,95,61,1,C04-BTR21-091,Monsoon,1,5.5,Low,Low,Low,No,75,Fresh,15,SHED HAIR,Post predation,ROUNAK
+438,C04-BTR21-091-SH04,Bandhavgarh,101,95,93,1,C04-BTR21-091,Monsoon,1,5.5,Low,Low,Low,No,75,Fresh,15,SHED HAIR,Predation,ROUNAK
+439,C04-BTR21-092-SH01,Bandhavgarh,100,95,94,1,C04-BTR21-092,Monsoon,1,7.5,Low,None,Low,No,25,Fresh,15,SHED HAIR,Post predation,ROUNAK
+440,C04-BTR21-092-SH02,Bandhavgarh,6,95,6,0,C04-BTR21-092,Monsoon,1,7.5,Low,None,Low,No,25,Fresh,15,SHED HAIR,Post predation,ROUNAK
+443,C04-BTR21-102-SH01,Bandhavgarh,46,95,43,0,C04-BTR21-102,Monsoon,3,7.5,Low,Low,Low,No,85,Eaten,65,SHED HAIR,Post predation,ROUNAK
+444,C04-BTR21-102-SH02,Bandhavgarh,74,95,68,1,C04-BTR21-102,Monsoon,3,7.5,Low,Low,Low,No,85,Eaten,65,SHED HAIR,Post predation,ROUNAK
+445,C04-BTR21-102-SH03,Bandhavgarh,86,95,80,1,C04-BTR21-102,Monsoon,3,7.5,Low,Low,Low,No,85,Eaten,65,SHED HAIR,Predation,ROUNAK
+446,C04-BTR21-119-SH01,Bandhavgarh,4,95,4,0,C04-BTR21-119,Winter,3,8.5,Low,Low,Low,No,35,Bloated,95,SHED HAIR,Predation,ROUNAK
+447,C04-BTR21-119-SH02,Bandhavgarh,52,95,50,1,C04-BTR21-119,Winter,3,8.5,Low,Low,Low,No,35,Bloated,95,SHED HAIR,Post predation,ROUNAK
+448,C04-BTR21-119-SH03,Bandhavgarh,92,95,84,1,C04-BTR21-119,Winter,3,8.5,Low,Low,Low,No,35,Bloated,95,SHED HAIR,Post predation,ROUNAK
+449,C04-BTR21-123-SH01,Bandhavgarh,85,95,79,1,C04-BTR21-123,Winter,3,3.5,None,None,None,No,95,Eaten,45,SHED HAIR,Predation,ROUNAK
+450,C04-BTR21-123-SH01,Bandhavgarh,85,95,79,1,C04-BTR21-123,Winter,3,3.5,None,None,None,No,95,Eaten,45,SHED HAIR,Predation,ROUNAK
+451,C04-BTR21-123-SH02,Bandhavgarh,73,95,69,1,C04-BTR21-123,Winter,3,3.5,None,None,None,No,95,Eaten,45,SHED HAIR,Post predation,ROUNAK
+452,C04-BTR21-123-SH03,Bandhavgarh,59,95,55,1,C04-BTR21-123,Winter,3,3.5,None,None,None,No,95,Eaten,45,SHED HAIR,Post predation,ROUNAK
+453,C04-BTR21-123-SH04,Bandhavgarh,74,95,69,1,C04-BTR21-123,Winter,3,3.5,None,None,None,No,95,Eaten,45,SHED HAIR,Post predation,ROUNAK
+454,C04-BTR21-123-SH04,Bandhavgarh,74,95,69,1,C04-BTR21-123,Winter,3,3.5,None,None,None,No,95,Eaten,45,SHED HAIR,Post predation,ROUNAK
+455,C04-BTR21-125-SH01,Bandhavgarh,78,95,74,1,C04-BTR21-125,Winter,2,8.5,Low,None,Low,No,65,Decay,25,SHED HAIR,Predation,ROUNAK
+456,C04-BTR21-125-SH01,Bandhavgarh,78,95,74,1,C04-BTR21-125,Winter,2,8.5,Low,None,Low,No,65,Decay,25,SHED HAIR,Predation,ROUNAK
+457,C04-BTR21-125-SH02,Bandhavgarh,53,95,51,1,C04-BTR21-125,Winter,2,8.5,Low,None,Low,No,65,Decay,25,SHED HAIR,Post predation,ROUNAK
+458,C04-BTR21-125-SH02,Bandhavgarh,53,95,51,1,C04-BTR21-125,Winter,2,8.5,Low,None,Low,No,65,Decay,25,SHED HAIR,Post predation,ROUNAK
+459,C04-BTR21-125-SH03,Bandhavgarh,64,95,60,1,C04-BTR21-125,Winter,2,8.5,Low,None,Low,No,65,Decay,25,SHED HAIR,Post predation,ROUNAK
+460,C04-BTR21-125-SH03,Bandhavgarh,64,95,60,1,C04-BTR21-125,Winter,2,8.5,Low,None,Low,No,65,Decay,25,SHED HAIR,Post predation,ROUNAK
+461,C04-BTR21-125-SH04,Bandhavgarh,58,95,55,1,C04-BTR21-125,Winter,2,8.5,Low,None,Low,No,65,Decay,25,SHED HAIR,Post predation,ROUNAK
+462,C04-BTR21-125-SH04,Bandhavgarh,58,95,55,1,C04-BTR21-125,Winter,2,8.5,Low,None,Low,No,65,Decay,25,SHED HAIR,Post predation,ROUNAK
+463,C04-BTR21-125-SH05,Bandhavgarh,67,95,64,1,C04-BTR21-125,Winter,2,8.5,Low,None,Low,No,65,Decay,25,SHED HAIR,Post predation,ROUNAK
+467,C04-BTR21-126-SH01,Bandhavgarh,43,95,41,0,C04-BTR21-126,Winter,4,9.5,Low,None,Low,No,95,Eaten,0,SHED HAIR,Post predation,ROUNAK
+468,C04-BTR21-126-SH02,Bandhavgarh,24,95,23,0,C04-BTR21-126,Winter,4,9.5,Low,None,Low,No,95,Eaten,0,SHED HAIR,Post predation,ROUNAK
+469,C04-BTR21-126-SH03,Bandhavgarh,58,95,55,1,C04-BTR21-126,Winter,4,9.5,Low,None,Low,No,95,Eaten,0,SHED HAIR,Predation,ROUNAK
+470,C04-BTR21-127-SH01,Bandhavgarh,3,95,3,0,C04-BTR21-127,Winter,1,5.5,Low,None,None,No,45,Fresh,75,SHED HAIR,Predation,ROUNAK
+471,C04-BTR21-127-SH02,Bandhavgarh,0,95,0,0,C04-BTR21-127,Winter,1,5.5,Low,None,None,No,45,Fresh,75,SHED HAIR,Post predation,ROUNAK
+472,C04-BTR21-127-SH03,Bandhavgarh,42,95,41,0,C04-BTR21-127,Winter,1,5.5,Low,None,None,No,45,Fresh,75,SHED HAIR,Post predation,ROUNAK
+473,C04-BTR21-127-SH04,Bandhavgarh,73,95,69,1,C04-BTR21-127,Winter,1,5.5,Low,None,None,No,45,Fresh,75,SHED HAIR,Post predation,ROUNAK
+475,C04-BTR21-127-SH06,Bandhavgarh,27,95,27,0,C04-BTR21-127,Winter,2,5.5,Low,None,None,No,75,Eaten,75,SHED HAIR,Post predation,ROUNAK
+479,C04-BTR21-129-SH01,Bandhavgarh,34,95,33,0,C04-BTR21-129,Winter,2,7.5,Low,None,Low,No,15,Bloated,15,SHED HAIR,Post predation,ROUNAK
+482,C04-BTR21-130-SH01,Bandhavgarh,35,95,33,0,C04-BTR21-130,Winter,2,7.5,Low,None,None,No,95,Dry/eaten,25,SHED HAIR,Predation,ROUNAK
+483,C04-BTR21-130-SH02,Bandhavgarh,76,95,71,1,C04-BTR21-130,Winter,2,7.5,Low,None,None,No,95,Dry/eaten,25,SHED HAIR,Post predation,ROUNAK
+486,C04-BTR21-131-SH01,Bandhavgarh,67,95,63,1,C04-BTR21-131,Winter,1,7.5,Low,None,Medium,No,45,Fresh,25,SHED HAIR,Predation,ROUNAK
+493,C04-BTR21-132-SH01,Bandhavgarh,76,95,70,1,C04-BTR21-132,Winter,2,7.5,Low,None,Low,No,85,Eaten,15,SHED HAIR,Post predation,ROUNAK
+494,C04-BTR21-132-SH02,Bandhavgarh,24,95,22,0,C04-BTR21-132,Winter,2,7.5,Low,None,Low,No,85,Eaten,15,SHED HAIR,Post predation,ROUNAK
+495,C04-BTR21-132-SH03,Bandhavgarh,0,95,0,0,C04-BTR21-132,Winter,2,7.5,Low,None,Low,No,85,Eaten,15,SHED HAIR,Predation,ROUNAK
+499,C04-BTR21-94-SH01,Bandhavgarh,69,95,64,1,C04-BTR21-094,Monsoon,2,6.5,Low,Low,Low,No,95,Eaten,5,SHED HAIR,Post predation,ROUNAK
+500,C04-BTR21-94-SH02,Bandhavgarh,80,95,75,1,C04-BTR21-094,Monsoon,2,6.5,Low,Low,Low,No,95,Eaten,5,SHED HAIR,Post predation,ROUNAK
+501,C04-BTR21-94-SH03,Bandhavgarh,62,95,58,1,C04-BTR21-094,Monsoon,2,6.5,Low,Low,Low,No,95,Eaten,5,SHED HAIR,Post predation,ROUNAK
+502,C04-BTR21-94-SH04,Bandhavgarh,64,95,60,1,C04-BTR21-094,Monsoon,2,6.5,Low,Low,Low,No,95,Eaten,5,SHED HAIR,Predation,ROUNAK
+503,C04-BTR21-95-SH01,Bandhavgarh,4,95,4,0,C04-BTR21-095,Monsoon,2,7.5,Low,Low,Low,No,65,Bloated,5,SHED HAIR,Predation,ROUNAK
+504,C04-BTR21-95-SH02,Bandhavgarh,67,95,63,1,C04-BTR21-095,Monsoon,2,7.5,Low,Low,Low,No,65,Bloated,5,SHED HAIR,Post predation,ROUNAK
+505,C04-BTR21-95-SH03,Bandhavgarh,38,95,36,0,C04-BTR21-095,Monsoon,2,7.5,Low,Low,Low,No,65,Bloated,5,SHED HAIR,Post predation,ROUNAK
+506,C04-BTR21-97-SH01,Bandhavgarh,60,95,56,1,C04-BTR21-097,Monsoon,1,7.5,Low,None,Low,No,15,Fresh,5,SHED HAIR,Post predation,ROUNAK
+507,C04-BTR21-97-SH02,Bandhavgarh,69,95,65,1,C04-BTR21-097,Monsoon,1,7.5,Low,None,Low,No,15,Fresh,5,SHED HAIR,Post predation,ROUNAK
+508,C04-BTR21-97-SH03,Bandhavgarh,0,95,0,0,C04-BTR21-097,Monsoon,1,7.5,Low,None,Low,No,15,Fresh,5,SHED HAIR,Predation,ROUNAK
+509,C04-BTR21-97-SH04,Bandhavgarh,0,95,0,0,C04-BTR21-097,Monsoon,1,7.5,Low,None,Low,No,15,Fresh,5,SHED HAIR,Post predation,ROUNAK
+510,C04-BTR21-99-SH01,Bandhavgarh,97,95,85,1,C04-BTR21-99,Monsoon,2,6.5,Low,None,Low,No,55,Fresh,15,SHED HAIR,Predation,ROUNAK
+511,C04-BTR21-99-SH02,Bandhavgarh,101,95,91,1,C04-BTR21-99,Monsoon,2,6.5,Low,None,Low,No,55,Fresh,15,SHED HAIR,Post predation,ROUNAK
+512,C04-BTR21-99-SH03,Bandhavgarh,71,95,67,1,C04-BTR21-99,Monsoon,2,6.5,Low,None,Low,No,55,Fresh,15,SHED HAIR,Post predation,ROUNAK
+513,C04-BTR21-99-SH04,Bandhavgarh,103,95,91,1,C04-BTR21-99,Monsoon,2,6.5,Low,None,Low,No,55,Fresh,15,SHED HAIR,Post predation,ROUNAK
+514,C04-BTR22-133-SH01,Bandhavgarh,53,95,50,1,C04-BTR22-133,Winter,2,7.5,Low,None,Low,No,65,Bloated,25,SHED HAIR,Predation,ROUNAK
+517,C04-BTR22-134-SH01,Bandhavgarh,6,95,6,0,C04-BTR22-134,Winter,2,8.5,Low,None,Medium,No,35,Fresh,85,SHED HAIR,Post predation,ROUNAK
+520,C04-BTR22-135-SH01,Bandhavgarh,46,95,42,0,C04-BTR22-135,Winter,2,7.5,Low,None,Low,No,65,Fresh,65,SHED HAIR,Post predation,ROUNAK
+521,C04-BTR22-135-SH02,Bandhavgarh,54,95,50,1,C04-BTR22-135,Winter,2,7.5,Low,None,Low,No,65,Fresh,65,SHED HAIR,Post predation,ROUNAK
+528,C04-BTR22-136-SH01,Bandhavgarh,59,95,55,1,C04-BTR22-136,Winter,3,8.5,Low,None,Medium,No,45,Fresh,0,SHED HAIR,Post predation,ROUNAK
+533,C04-BTR22-137-SH01,Bandhavgarh,2,95,2,0,C04-BTR22-137,Winter,3,8.5,Low,None,Low,No,15,Fresh,25,SHED HAIR,Post predation,ROUNAK
+534,C04-BTR22-137-SH02,Bandhavgarh,68,95,64,1,C04-BTR22-137,Winter,3,8.5,Low,None,Low,No,15,Fresh,25,SHED HAIR,Predation,ROUNAK
+537,C04-BTR22-138-SH01,Bandhavgarh,5,95,5,0,C04-BTR22-138,Winter,1,9.5,Low,None,Low,No,15,Fresh,5,SHED HAIR,Post predation,ROUNAK
+540,C04-BTR22-139-SH01,Bandhavgarh,56,95,52,1,C04-BTR22-139,Winter,0,3,Low,None,Low,No,65,Fresh,35,SHED HAIR,Predation,ROUNAK
+541,C04-BTR22-139-SH01,Bandhavgarh,56,95,52,1,C04-BTR22-139,Winter,0,3,Low,None,Low,No,65,Fresh,35,SHED HAIR,Predation,ROUNAK
+542,C04-BTR22-139-SH02,Bandhavgarh,106,95,94,1,C04-BTR22-139,Winter,0,3,Low,None,Low,No,65,Fresh,35,SHED HAIR,Post predation,ROUNAK
+543,C04-BTR22-139-SH02,Bandhavgarh,106,95,94,1,C04-BTR22-139,Winter,0,3,Low,None,Low,No,65,Fresh,35,SHED HAIR,Post predation,ROUNAK
+544,C04-BTR22-139-SH03,Bandhavgarh,51,95,48,1,C04-BTR22-139,Winter,2,3,None,None,None,No,95,Eaten,35,SHED HAIR,Post predation,ROUNAK
+548,C04-BTR22-144-SH01,Bandhavgarh,68,95,64,1,C04-BTR22-144,Winter,1,7.5,Low,None,Low,No,5,Fresh,75,SHED HAIR,Post predation,ROUNAK
+549,C04-BTR22-144-SH02,Bandhavgarh,75,95,70,1,C04-BTR22-144,Winter,1,7.5,Low,None,Low,No,5,Fresh,75,SHED HAIR,Post predation,ROUNAK
+553,C04-BTR22-145-SH01,Bandhavgarh,44,95,42,0,C04-BTR22-145,Winter,2,3.5,Low,None,Low,No,85,Fresh,65,SHED HAIR,Post predation,ROUNAK
+554,C04-BTR22-145-SH02,Bandhavgarh,45,95,43,0,C04-BTR22-145,Winter,2,3.5,Low,None,Low,No,85,Fresh,65,SHED HAIR,Post predation,ROUNAK
+555,C04-BTR22-145-SH03,Bandhavgarh,80,95,76,1,C04-BTR22-145,Winter,2,3.5,Low,None,Low,No,85,Fresh,65,SHED HAIR,Predation,ROUNAK
+556,C04-BTR22-145-SH04,Bandhavgarh,42,95,39,0,C04-BTR22-145,Winter,4,3.5,Low,None,Low,No,95,Eaten,65,SHED HAIR,Post predation,ROUNAK
+559,C04-BTR22-147-SH01,Bandhavgarh,0,95,0,0,C04-BTR22-147,Winter,0,4.5,Low,None,None,No,5,Bloated,95,SHED HAIR,Predation,ROUNAK
+560,C04-BTR22-147-SH02,Bandhavgarh,66,95,63,1,C04-BTR22-147,Winter,0,4.5,Low,None,None,No,5,Bloated,95,SHED HAIR,Post predation,ROUNAK
+565,C04-BTR22-148-SH01,Bandhavgarh,31,95,30,0,C04-BTR22-148,Winter,2,7.5,Low,None,Low,No,85,Eaten,25,SHED HAIR,Post predation,ROUNAK
+566,C04-BTR22-148-SH02,Bandhavgarh,65,95,61,1,C04-BTR22-148,Winter,2,7.5,Low,None,Low,No,85,Eaten,25,SHED HAIR,Predation,ROUNAK
+568,C04-BTR22-149-SH01,Bandhavgarh,58,95,55,1,C04-BTR22-149,Winter,1,9.5,Medium,None,Medium,No,5,Bloated,0,SHED HAIR,Predation,ROUNAK
+569,C04-BTR22-149-SH02,Bandhavgarh,28,95,28,0,C04-BTR22-149,Winter,1,9.5,Medium,None,Medium,No,5,Bloated,0,SHED HAIR,Post predation,ROUNAK
+572,C04-BTR22-151-SH01,Bandhavgarh,12,95,12,0,C04-BTR22-151,Winter,2,5.5,Low,None,Low,No,75,Bloated,95,SHED HAIR,Predation,ROUNAK
+573,C04-BTR22-151-SH02,Bandhavgarh,35,95,33,0,C04-BTR22-151,Winter,2,5.5,Low,None,Low,No,75,Bloated,95,SHED HAIR,Post predation,ROUNAK
+576,C04-BTR22-152-SH01,Bandhavgarh,4,95,4,0,C04-BTR22-152,Winter,0,7.5,Medium,None,Low,No,25,Bloated,75,SHED HAIR,Post predation,ROUNAK
+577,C04-BTR22-152-SH02,Bandhavgarh,64,95,60,1,C04-BTR22-152,Winter,0,7.5,Medium,None,Low,No,25,Bloated,75,SHED HAIR,Predation,ROUNAK
+579,C04-BTR22-159-SH01,Bandhavgarh,0,95,0,0,C04-BTR22-159,Summer,1,4.5,Low,None,None,No,85,Fresh,65,SHED HAIR,Post predation,ROUNAK
+580,C04-BTR22-159-SH02,Bandhavgarh,33,95,31,0,C04-BTR22-159,Summer,1,4.5,Low,None,None,No,85,Fresh,65,SHED HAIR,Post predation,ROUNAK
+581,C04-BTR22-159-SH03,Bandhavgarh,5,95,5,0,C04-BTR22-159,Summer,1,4.5,Low,None,None,No,85,Fresh,65,SHED HAIR,Predation,ROUNAK
+582,C04-BTR22-163-SH01,Bandhavgarh,60,95,57,1,C04-BTR22-163,Summer,2,7.5,Low,None,Low,No,75,Fresh,75,SHED HAIR,Post predation,ROUNAK
+583,C04-BTR22-163-SH02,Bandhavgarh,5,95,5,0,C04-BTR22-163,Summer,2,7.5,Low,None,Low,No,75,Fresh,75,SHED HAIR,Post predation,ROUNAK
+584,C04-BTR22-163-SH03,Bandhavgarh,13,95,13,0,C04-BTR22-163,Summer,2,7.5,Low,None,Low,No,75,Fresh,75,SHED HAIR,Predation,ROUNAK
+585,C04-BTR22-166-SH01,Bandhavgarh,65,95,60,1,C04-BTR22-166,Summer,1,7.5,Low,None,Low,No,5,Fresh,25,SHED HAIR,Post predation,ROUNAK
+586,C04-BTR22-166-SH02,Bandhavgarh,28,95,27,0,C04-BTR22-166,Summer,1,7.5,Low,None,Low,No,5,Fresh,25,SHED HAIR,Post predation,ROUNAK
+587,C04-BTR22-166-SH03,Bandhavgarh,63,95,58,1,C04-BTR22-166,Summer,1,7.5,Low,None,Low,No,5,Fresh,25,SHED HAIR,Post predation,ROUNAK
+588,C04-BTR22-166-SH04,Bandhavgarh,53,95,49,1,C04-BTR22-166,Summer,1,7.5,Low,None,Low,No,5,Fresh,25,SHED HAIR,Predation,ROUNAK
+589,C04-BTR22-167-SH01,Bandhavgarh,27,95,26,0,C04-BTR22-167,Summer,2,7.5,Low,None,Low,No,85,Eaten,95,SHED HAIR,Post predation,ROUNAK
+590,C04-BTR22-167-SH02,Bandhavgarh,53,95,50,1,C04-BTR22-167,Summer,2,7.5,Low,None,Low,No,85,Eaten,95,SHED HAIR,Post predation,ROUNAK
+591,C04-BTR22-167-SH03,Bandhavgarh,17,95,17,0,C04-BTR22-167,Summer,2,7.5,Low,None,Low,No,85,Eaten,95,SHED HAIR,Predation,ROUNAK
+592,C04-BTR22-168-SH01,Bandhavgarh,60,95,58,1,C04-BTR22-168,Summer,2,8.5,Low,None,Low,No,95,Eaten,95,SHED HAIR,Predation,ROUNAK
+593,C04-BTR22-168-SH02,Bandhavgarh,45,95,43,0,C04-BTR22-168,Summer,2,8.5,Low,None,Low,No,95,Eaten,95,SHED HAIR,Post predation,ROUNAK
+594,C04-BTR22-168-SH03,Bandhavgarh,25,95,25,0,C04-BTR22-168,Summer,2,8.5,Low,None,Low,No,95,Eaten,95,SHED HAIR,Post predation,ROUNAK
+595,C04-BTR22-168-SH04,Bandhavgarh,54,95,52,1,C04-BTR22-168,Summer,2,8.5,Low,None,Low,No,95,Eaten,95,SHED HAIR,Post predation,ROUNAK
+596,C04-BTR22-169-SH01,Bandhavgarh,6,95,6,0,C04-BTR22-169,Summer,1,8.5,Low,None,Low,No,45,Fresh,45,SHED HAIR,Post predation,ROUNAK
+597,C04-BTR22-169-SH02,Bandhavgarh,29,95,27,0,C04-BTR22-169,Summer,1,8.5,Low,None,Low,No,45,Fresh,45,SHED HAIR,Post predation,ROUNAK
+598,C04-BTR22-169-SH03-A-B,Bandhavgarh,5,95,5,0,C04-BTR22-169,Summer,1,8.5,Low,None,Low,No,45,Fresh,45,SHED HAIR,Predation,ROUNAK
+599,C04-BTR22-171-SH01,Bandhavgarh,1,95,1,0,C04-BTR22-171,Summer,1,4.5,None,None,Low,No,95,Fresh,15,SHED HAIR,Predation,ROUNAK
+600,C04-BTR22-171-SH02,Bandhavgarh,5,95,5,0,C04-BTR22-171,Summer,1,4.5,None,None,Low,No,95,Fresh,15,SHED HAIR,Post predation,ROUNAK
+601,C04-BTR22-171-SH03,Bandhavgarh,2,95,2,0,C04-BTR22-171,Summer,1,4.5,None,None,Low,No,95,Fresh,15,SHED HAIR,Post predation,ROUNAK
+602,C04-BTR22-172-SH01,Bandhavgarh,59,95,54,1,C04-BTR22-172,Summer,2,3.5,Low,None,Low,No,95,Fresh,55,SHED HAIR,Predation,ROUNAK
+603,C04-BTR22-172-SH02,Bandhavgarh,4,95,4,0,C04-BTR22-172,Summer,2,3.5,Low,None,Low,No,95,Fresh,55,SHED HAIR,Post predation,ROUNAK
+604,C04-BTR22-172-SH03,Bandhavgarh,2,95,2,0,C04-BTR22-172,Summer,2,3.5,Low,None,Low,No,95,Fresh,55,SHED HAIR,Post predation,ROUNAK
+605,C04-BTR22-175-SH03,Bandhavgarh,5,95,5,0,C04-BTR22-175,Summer,2,8.5,Medium,Low,Medium,No,55,Bloated,15,SHED HAIR,Post predation,ROUNAK
+606,C04-BTR22-175-SH04,Bandhavgarh,25,95,25,0,C04-BTR22-175,Summer,4,8.5,Medium,Low,Low,No,75,Decay,15,SHED HAIR,Post predation,ROUNAK
+607,C04-BTR22-177-SH01,Bandhavgarh,73,95,69,1,C04-BTR22-177,Summer,2,6.5,Medium,Medium,Low,No,35,Decay,35,SHED HAIR,Predation,ROUNAK
+608,C04-BTR22-177-SH02,Bandhavgarh,49,95,46,1,C04-BTR22-177,Summer,2,6.5,Medium,Medium,Low,No,35,Decay,35,SHED HAIR,Post predation,ROUNAK
+609,C04-BTR22-177-SH03,Bandhavgarh,0,95,0,0,C04-BTR22-177,Summer,2,6.5,Medium,Medium,Low,No,35,Decay,35,SHED HAIR,Post predation,ROUNAK
+610,C04-BTR22-178-SH01,Bandhavgarh,7,95,7,0,C04-BTR22-178,Summer,1,8.5,Low,Low,Medium,No,45,Bloated,35,SHED HAIR,Predation,ROUNAK
+611,C04-BTR22-178-SH02,Bandhavgarh,99,95,92,1,C04-BTR22-178,Summer,1,8.5,Low,Low,Medium,No,45,Bloated,35,SHED HAIR,Post predation,ROUNAK
+612,C04-BTR22-178-SH03,Bandhavgarh,81,95,77,1,C04-BTR22-178,Summer,1,8.5,Low,Low,Medium,No,45,Bloated,35,SHED HAIR,Post predation,ROUNAK
+619,C04-BTR22-179-SH01,Bandhavgarh,4,95,4,0,C04-BTR22-179,Summer,1,5.5,Low,Low,Medium,No,5,Bloated,65,SHED HAIR,Post predation,ROUNAK
+621,C04-BTR22-179-SH02,Bandhavgarh,95,95,90,1,C04-BTR22-179,Summer,1,5.5,Low,Low,Medium,No,5,Bloated,65,SHED HAIR,Post predation,ROUNAK
+622,C04-BTR22-179-SH03,Bandhavgarh,7,95,7,0,C04-BTR22-179,Summer,1,5.5,Low,Low,Medium,No,5,Bloated,65,SHED HAIR,Post predation,ROUNAK
+627,C04-BTR22-181-SH01,Bandhavgarh,61,95,58,1,C04-BTR22-181,Summer,0,8.5,Low,None,Medium,No,5,Fresh,25,SHED HAIR,Predation,ROUNAK
+628,C04-BTR22-181-SH01,Bandhavgarh,61,95,58,1,C04-BTR22-181,Summer,0,8.5,Low,None,Medium,No,5,Fresh,25,SHED HAIR,Predation,ROUNAK
+629,C04-BTR22-181-SH02,Bandhavgarh,72,95,68,1,C04-BTR22-181,Summer,0,8.5,Low,None,Medium,No,5,Fresh,25,SHED HAIR,Post predation,ROUNAK
+630,C04-BTR22-181-SH02,Bandhavgarh,72,95,68,1,C04-BTR22-181,Summer,0,8.5,Low,None,Medium,No,5,Fresh,25,SHED HAIR,Post predation,ROUNAK
+638,C04-BTR22-182-SH01,Bandhavgarh,105,95,95,1,C04-BTR22-182,Summer,0,4.5,None,None,Low,No,5,Fresh,0,SHED HAIR,Post predation,ROUNAK
+639,C04-BTR22-182-SH01,Bandhavgarh,105,95,95,1,C04-BTR22-182,Summer,0,4.5,None,None,Low,No,5,Fresh,0,SHED HAIR,Post predation,ROUNAK
+640,C04-BTR22-182-SH02,Bandhavgarh,108,95,95,1,C04-BTR22-182,Summer,0,4.5,None,None,Low,No,5,Fresh,0,SHED HAIR,Predation,ROUNAK
+641,C04-BTR22-182-SH02,Bandhavgarh,108,95,95,1,C04-BTR22-182,Summer,0,4.5,None,None,Low,No,5,Fresh,0,SHED HAIR,Predation,ROUNAK

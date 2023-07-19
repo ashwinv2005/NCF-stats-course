@@ -22,7 +22,7 @@ mean = median(mn)
 rci = quantile(mn,0.975)
 
 
-## Make this into a 'funtion' for tidyverse
+## Make this into a 'function' for tidyverse
 
 bootst = function(vec) {
   mn = numeric(1000)

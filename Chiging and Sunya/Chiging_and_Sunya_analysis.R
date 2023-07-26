@@ -95,23 +95,24 @@ det.expanded = pang.det %>%
                             month %in% c(6,7,8) ~ "Mon",
                             month %in% c(9,10,11) ~ "Aut")) %>% 
   mutate(season = as.factor(season)) %>%
-  group_by(unique.ind,id,season) %>% slice(1) %>% 
+  group_by(unique.ind,id,season) %>% arrange(desc(presence.absence)) %>% 
+  slice(1) %>%
   # remove instances of multiple visits to the same grids by the same person
   ungroup()             
 
 # step 3 - divide det.expanded into two - 1) with month info 2) without month info
 
 det.expanded.1 = det.expanded %>%
-  filter(!is.na(season))
+  filter(!is.na(season)) %>% select(-month)
 det.expanded.2 = det.expanded %>%
-  filter(is.na(month)) %>% select(-season)
+  filter(is.na(season)) %>% select(-month)
 
 # step 4 - combine aok and det data, separately where there is month info and where there isn't
 
-aok.det.1 = aok.expanded %>%
+aok.det.1 = aok.expanded %>% select(-month) %>%
   left_join(det.expanded.1)
 
-aok.det.2 = aok.expanded %>%
+aok.det.2 = aok.expanded %>% select(-month) %>%
   left_join(det.expanded.2)
 
 aok.det = aok.det.1 %>%
@@ -166,13 +167,13 @@ umf = unmarkedFrameOccu(y=det[,-1], siteCovs = data.frame(ele = det.ele$elevatio
                                        cov3 = cov.visit.reason[,-1]))
 
 
-occu_det = occu(~ cov3 ~ ele, data=umf, starts = rep(0,9), 
+occu_det = occu(~ cov1 + cov3 ~ ele, data=umf, starts = rep(0,12), 
                 engine = "C")
 summary(occu_det)
 
 
 
-f1 = predict(occu_det, newdata = newdata, type = 'state')
+f1 = predict(occu_det, type = 'state')
 
 
 

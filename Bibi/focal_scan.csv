@@ -1,0 +1,214 @@
+No,tree_sp,ficus_nonficus,species,species_group,mammal_bird,arr_time,dep_time,visitation_time,pecked,swallowed,dropped,seed_handled,number_of seed_dispersed,proportions_seed_dispersed
+1,Actinodaphne_obovata,non_ficus,rm,macaque,Mammal,10:52,10:53,0:01:00,0,13,0,13,13,1
+2,Actinodaphne_obovata,non_ficus,rm,macaque,Mammal,11:12,11:13,0:01:00,0,7,0,7,7,1
+3,Actinodaphne_obovata,non_ficus,rm,macaque,Mammal,12:38,12:39,0:01:00,0,11,0,11,11,1
+24,Chisocheton_cumingianus,non_ficus,wrho,hornbill,Bird,12:04,12:06,0:02:00,4,0,0,4,0,0
+25,Chisocheton_cumingianus,non_ficus,wrho,hornbill,Bird,10:23,10:26,0:03:00,3,0,0,3,0,0
+26,Chisocheton_cumingianus,non_ficus,wrho,hornbill,Bird,10:27,10:28,0:01:00,1,0,0,1,0,0
+27,Chisocheton_cumingianus,non_ficus,wrho,hornbill,Bird,10:28,10:31,0:03:00,5,0,0,5,0,0
+28,Chisocheton_cumingianus,non_ficus,wrho,hornbill,Bird,10:32,10:33,0:01:00,1,0,0,1,0,0
+33,Chisocheton_cumingianus,non_ficus,wrho,hornbill,Bird,7:33,7:39,0:06:00,3,0,0,3,0,0
+35,Chisocheton_cumingianus,non_ficus,mipi,imperial_pigeon,Bird,12:24,12:30,0:06:00,0,1,1,2,1,0.5
+38,Chisocheton_cumingianus,non_ficus,mipi,imperial_pigeon,Bird,7:14,7:16,0:02:00,0,1,1,2,1,0.5
+39,Chisocheton_cumingianus,non_ficus,mipi,imperial_pigeon,Bird,7:17,7:20,0:03:00,1,0,0,1,0,0
+40,Chisocheton_cumingianus,non_ficus,mipi,imperial_pigeon,Bird,7:34,7:36,0:02:00,1,0,0,1,0,0
+41,Chisocheton_cumingianus,non_ficus,mipi,imperial_pigeon,Bird,7:49,7:51,0:02:00,0,1,1,2,1,0.5
+42,Chisocheton_cumingianus,non_ficus,mipi,imperial_pigeon,Bird,11:31,11:33,0:02:00,0,1,1,2,1,0.5
+43,Chisocheton_cumingianus,non_ficus,mipi,imperial_pigeon,Bird,13:51,13:52,0:01:00,0,1,1,2,1,0.5
+44,Chisocheton_cumingianus,non_ficus,mipi,imperial_pigeon,Bird,9:42,9:43,0:01:00,0,3,3,6,3,0.5
+47,Chisocheton_cumingianus,non_ficus,mipi,imperial_pigeon,Bird,14:42,14:43,0:01:00,1,0,0,1,0,0
+56,Dysoxylum_cauliflorum,non_ficus,rbs,squirrel,Mammal,6:43,6:45,0:02:00,0,4,0,4,4,1
+57,Dysoxylum_cauliflorum,non_ficus,rbs,squirrel,Mammal,6:51,6:52,0:01:00,0,6,0,6,6,1
+58,Dysoxylum_cauliflorum,non_ficus,rbs,squirrel,Mammal,8:25,8:26,0:01:00,0,3,0,3,3,1
+59,Dysoxylum_cauliflorum,non_ficus,maor,oriole,Bird,10:21,10:24,0:03:00,0,6,0,6,6,1
+60,Dysoxylum_cauliflorum,non_ficus,suti,tit,Bird,10:09,10:10,0:01:00,9,0,1,10,0,0
+61,Dysoxylum_cauliflorum,non_ficus,chmy,Myna,Bird,11:18,11:20,0:02:00,3,0,0,3,0,0
+128,Elaeocarpus_angustifolius,non_ficus,bcbu,bulbul,Bird,6:28,6:30,0:02:00,3,0,0,3,0,0
+129,Elaeocarpus_angustifolius,non_ficus,liba,barbet,Bird,8:09,8:11,0:02:00,2,0,0,2,0,0
+130,Elaeocarpus_angustifolius,non_ficus,rm,macaque,Mammal,8:11,8:13,0:02:00,0,1,1,2,1,0.5
+131,Elaeocarpus_angustifolius,non_ficus,rm,macaque,Mammal,8:18,8:24,0:06:00,3,1,5,9,1,0.111111111
+132,Elaeocarpus_angustifolius,non_ficus,afbl,fairy_bluebird,Bird,8:54,8:56,0:02:00,2,0,0,2,0,0
+133,Elaeocarpus_angustifolius,non_ficus,afbl,fairy_bluebird,Bird,8:57,8:58,0:01:00,2,0,1,3,0,0
+134,Elaeocarpus_angustifolius,non_ficus,liba,barbet,Bird,9:00,9:04,0:04:00,1,0,0,1,0,0
+135,Elaeocarpus_angustifolius,non_ficus,wtbu,bulbul,Bird,11:20,11:23,0:03:00,1,0,0,1,0,0
+136,Elaeocarpus_angustifolius,non_ficus,btba,barbet,Bird,11:45,11:47,0:02:00,1,0,0,1,0,0
+137,Elaeocarpus_angustifolius,non_ficus,liba,barbet,Bird,11:46,11:47,0:01:00,1,0,0,1,0,0
+138,Elaeocarpus_angustifolius,non_ficus,liba,barbet,Bird,12:05,12:07,0:02:00,2,0,0,2,0,0
+141,Elaeocarpus_angustifolius,non_ficus,liba,barbet,Bird,13:13,13:16,0:03:00,1,0,0,1,0,0
+142,Elaeocarpus_angustifolius,non_ficus,btba,barbet,Bird,13:24,13:28,0:04:00,2,0,0,2,0,0
+143,Elaeocarpus_angustifolius,non_ficus,wtbu,bulbul,Bird,13:43,13:45,0:02:00,2,0,1,3,0,0
+144,Elaeocarpus_angustifolius,non_ficus,wtbu,bulbul,Bird,13:44,13:45,0:01:00,1,0,0,1,0,0
+145,Elaeocarpus_angustifolius,non_ficus,liba,barbet,Bird,14:05,14:17,0:12:00,6,0,1,7,0,0
+146,Elaeocarpus_angustifolius,non_ficus,liba,barbet,Bird,14:37,14:41,0:04:00,2,0,0,2,0,0
+147,Elaeocarpus_angustifolius,non_ficus,liba,barbet,Bird,14:54,14:55,0:01:00,0,2,3,5,2,0.4
+148,Elaeocarpus_angustifolius,non_ficus,afbl,fairy_bluebird,Bird,15:01,15:08,0:07:00,2,0,0,2,0,0
+149,Elaeocarpus_angustifolius,non_ficus,wtbu,bulbul,Bird,15:21,15:22,0:01:00,0,0,2,2,0,0
+150,Elaeocarpus_angustifolius,non_ficus,wtbu,bulbul,Bird,15:22,15:25,0:03:00,1,0,1,2,0,0
+151,Elaeocarpus_angustifolius,non_ficus,wtbu,bulbul,Bird,15:24,15:28,0:04:00,1,0,0,1,0,0
+152,Elaeocarpus_angustifolius,non_ficus,afbl,fairy_bluebird,Bird,15:28,15:30,0:02:00,1,0,0,1,0,0
+153,Elaeocarpus_angustifolius,non_ficus,btba,barbet,Bird,15:32,15:34,0:02:00,2,0,1,3,0,0
+154,Elaeocarpus_angustifolius,non_ficus,btba,barbet,Bird,15:35,15:36,0:01:00,1,0,0,1,0,0
+155,Elaeocarpus_angustifolius,non_ficus,btba,barbet,Bird,15:52,15:54,0:02:00,1,0,1,2,0,0
+156,Ficus_benjamina,ficus,ptpi,green_pigeon,Bird,6:24,6:26,0:02:00,0,4,0,4,4,1
+157,Ficus_benjamina,ficus,ahgp,green_pigeon,Bird,6:36,6:38,0:02:00,8,6,0,14,6,0.428571429
+158,Ficus_benjamina,ficus,liba,barbet,Bird,6:39,6:40,0:01:00,4,3,0,7,3,0.428571429
+159,Ficus_benjamina,ficus,rm,macaque,Mammal,6:59,7:00,0:01:00,0,3,0,3,3,1
+160,Ficus_benjamina,ficus,ahgp,green_pigeon,Bird,7:10,7:12,0:02:00,8,3,1,12,3,0.25
+161,Ficus_benjamina,ficus,afbl,fairy_bluebird,Bird,7:19,7:20,0:01:00,3,2,0,5,2,0.4
+162,Ficus_benjamina,ficus,btba,barbet,Bird,7:34,7:36,0:02:00,0,3,1,4,3,0.75
+163,Ficus_benjamina,ficus,wtgp,green_pigeon,Bird,7:42,7:44,0:02:00,3,4,2,9,4,0.444444444
+164,Ficus_benjamina,ficus,wtgp,green_pigeon,Bird,7:50,7:52,0:02:00,6,0,2,8,0,0
+165,Ficus_benjamina,ficus,ptpi,green_pigeon,Bird,7:56,7:58,0:02:00,11,1,0,12,1,0.083333333
+166,Ficus_benjamina,ficus,liba,barbet,Bird,8:03,8:07,0:04:00,2,3,0,5,3,0.6
+167,Ficus_benjamina,ficus,bwmi,minla,Bird,10:48,10:49,0:01:00,30,0,0,30,0,0
+168,Ficus_benjamina,ficus,afbl,fairy_bluebird,Bird,11:16,11:18,0:02:00,0,4,1,5,4,0.8
+169,Ficus_benjamina,ficus,btba,barbet,Bird,11:24,11:26,0:02:00,1,3,0,4,3,0.75
+170,Ficus_benjamina,ficus,btba,barbet,Bird,11:45,11:48,0:03:00,8,1,0,9,1,0.111111111
+171,Ficus_benjamina,ficus,afbl,fairy_bluebird,Bird,12:28,12:29,0:01:00,2,0,1,3,0,0
+172,Ficus_benjamina,ficus,mgs,squirrel,Mammal,12:45,12:49,0:04:00,0,11,3,14,11,0.785714286
+173,Ficus_benjamina,ficus,afbl,fairy_bluebird,Bird,1:30,1:32,0:02:00,4,2,0,6,2,0.333333333
+174,Ficus_drupacea,ficus,mgs,squirrel,Mammal,9:16,9:19,0:03:00,0,1,1,2,1,0.5
+175,Ficus_drupacea,ficus,mgs,squirrel,Mammal,9:23,9:28,0:05:00,0,0.5,0.5,1,1,0.5
+176,Ficus_drupacea,ficus,mgs,squirrel,Mammal,1:42,1:45,0:03:00,0,1,0,1,1,1
+177,Ficus_drupacea,ficus,grho,hornbill,Bird,3:44,3:45,0:01:00,0,1,0,1,1,1
+178,Ficus_drupacea,ficus,wrho,hornbill,Bird,4:17,4:18,0:01:00,0,3,0,3,3,1
+179,Ficus_drupacea,ficus,blbu,bulbul,Bird,8:04,8:05,0:01:00,16,0,0,16,0,0
+180,Ficus_drupacea,ficus,blbu,bulbul,Bird,12:25,12:26,0:01:00,10,0,0,10,0,0
+181,Ficus_drupacea,ficus,blbu,bulbul,Bird,11:13,11:14,0:01:00,12,0,0,12,0,0
+182,Ficus_drupacea,ficus,blbu,bulbul,Bird,1:05,1:06,0:01:00,9,0,0,9,0,0
+183,Ficus_drupacea,ficus,btba,barbet,Bird,1:26,1:28,0:02:00,30,0,0,30,0,0
+184,Ficus_drupacea,ficus,ptpi,green_pigeon,Bird,3:00,3:02,0:02:00,48,0,1,49,0,0
+185,Ficus_drupacea,ficus,wtbu,bulbul,Bird,12:56,12:57,0:01:00,6,0,0,6,0,0
+186,Ficus_drupacea,ficus,gywp,woodpecker,Bird,1:05,1:07,0:02:00,23,0,2.5,25.5,0,0
+187,Ficus_drupacea,ficus,gfle,Leafbird,Bird,1:10,1:12,0:02:00,33,0,0,33,0,0
+188,Ficus_drupacea,ficus,liba,barbet,Bird,1:29,1:30,0:01:00,4,0,0,4,0,0
+189,Ficus_drupacea,ficus,grho,hornbill,Bird,1:59,2:02,0:03:00,0,5,0,5,5,1
+190,Ficus_drupacea,ficus,hbs,squirrel,Mammal,2:29,2:31,0:02:00,11,0,1,12,0,0
+191,Ficus_drupacea,ficus,liba,barbet,Bird,2:35,2:37,0:02:00,10,0,0,10,0,0
+192,Ficus_drupacea,ficus,wrho,hornbill,Bird,8:54,8:58,0:04:00,0,4,1,5,4,0.8
+193,Ficus_drupacea,ficus,afbl,fairy_bluebird,Bird,13:22,13:23,0:01:00,7,0,0,7,0,0
+194,Ficus_geniculata,ficus,opho,hornbill,Bird,6:07,6:08,0:01:00,0,10,0,10,10,1
+195,Ficus_geniculata,ficus,ptpi,green_pigeon,Bird,6:25,6:27,0:02:00,0,17,0,17,17,1
+196,Ficus_geniculata,ficus,ptpi,green_pigeon,Bird,6:43,6:46,0:03:00,0,18,0,18,18,1
+197,Ficus_geniculata,ficus,ptpi,green_pigeon,Bird,6:52,6:54,0:02:00,0,9,0,9,9,1
+198,Ficus_geniculata,ficus,lnla,Laughingthrush,Bird,7:09,7:10,0:01:00,0,1,0,1,1,1
+199,Ficus_geniculata,ficus,rbs,squirrel,Mammal,7:53,7:54,0:01:00,0,8,0,8,8,1
+200,Ficus_geniculata,ficus,blbu,bulbul,Bird,8:12,8:13,0:01:00,1,1,0,2,1,0.5
+201,Ficus_geniculata,ficus,rbs,squirrel,Mammal,11:49,11:51,0:02:00,0,10,0,10,10,1
+202,Ficus_geniculata,ficus,rbs,squirrel,Mammal,11:57,12:00,0:03:00,0,22,0,22,22,1
+203,Ficus_geniculata,ficus,gywp,woodpecker,Bird,2:22,2:24,0:02:00,4,2,0,6,2,0.333333333
+204,Ficus_geniculata,ficus,ptpi,green_pigeon,Bird,3:13,3:14,0:01:00,10,9,0,19,9,0.473684211
+205,Ficus_geniculata,ficus,ptpi,green_pigeon,Bird,3:14,3:16,0:02:00,10,2,0,12,2,0.166666667
+206,Ficus_nervosa,ficus,wtbu,bulbul,Bird,6:57,6:58,0:01:00,0,3,0,3,3,1
+207,Ficus_nervosa,ficus,wtbu,bulbul,Bird,10:11,10:12,0:01:00,0,2,0,2,2,1
+208,Ficus_nervosa,ficus,wtbu,bulbul,Bird,11:22,11:23,0:01:00,0,2,0,2,2,1
+209,Ficus_nervosa,ficus,bcbu,bulbul,Bird,11:25,11:27,0:02:00,0,2,1,3,2,0.666666667
+210,Ficus_nervosa,ficus,wtbu,bulbul,Bird,11:30,11:31,0:01:00,0,1,0,1,1,1
+211,Ficus_nervosa,ficus,liba,barbet,Bird,6:42,6:43,0:01:00,0,2,0,2,2,1
+212,Ficus_nervosa,ficus,ptpi,green_pigeon,Bird,6:48,6:49,0:01:00,0,3,0,3,3,1
+213,Ficus_nervosa,ficus,ptpi,green_pigeon,Bird,6:53,6:54,0:01:00,0,1,0,1,1,1
+214,Ficus_nervosa,ficus,btba,barbet,Bird,7:11,7:12,0:01:00,0,2,0,2,2,1
+215,Ficus_nervosa,ficus,afbl,fairy_bluebird,Bird,7:31,7:32,0:01:00,0,2,0,2,2,1
+216,Ficus_nervosa,ficus,ptpi,green_pigeon,Bird,7:30,7:33,0:03:00,0,5,1,6,5,0.833333333
+217,Ficus_nervosa,ficus,btba,barbet,Bird,8:18,8:19,0:01:00,0,1,0,1,1,1
+218,Ficus_nervosa,ficus,afbl,fairy_bluebird,Bird,8:21,8:23,0:02:00,0,1,1,2,1,0.5
+219,Ficus_nervosa,ficus,afbl,fairy_bluebird,Bird,9:02,9:03,0:01:00,0,2,0,2,2,1
+220,Ficus_nervosa,ficus,liba,barbet,Bird,9:06,9:07,0:01:00,0,1,0,1,1,1
+221,Ficus_nervosa,ficus,afbl,fairy_bluebird,Bird,11:17,11:18,0:01:00,0,1,0,1,1,1
+222,Ficus_nervosa,ficus,btba,barbet,Bird,11:34,11:35,0:01:00,0,3,0,3,3,1
+223,Ficus_nervosa,ficus,btba,barbet,Bird,11:36,11:37,0:01:00,0,1,0,1,1,1
+224,Ficus_nervosa,ficus,btba,barbet,Bird,1:00,1:01,0:01:00,0,1,1,2,1,0.5
+225,Ficus_nervosa,ficus,btba,barbet,Bird,1:11,1:13,0:02:00,0,3,0,3,3,1
+226,Ficus_nervosa,ficus,btba,barbet,Bird,1:41,1:43,0:02:00,0,1,0,1,1,1
+227,Ficus_nervosa,ficus,ptpi,green_pigeon,Bird,2:11,2:12,0:01:00,0,2,0,2,2,1
+228,Ficus_nervosa,ficus,wtbu,bulbul,Bird,3:13,3:14,0:01:00,0,1,0,1,1,1
+229,Ficus_nervosa,ficus,btba,barbet,Bird,7:03,7:05,0:02:00,0,3,0,3,3,1
+230,Ficus_nervosa,ficus,afbl,fairy_bluebird,Bird,8:02,8:03,0:01:00,0,2,0,2,2,1
+231,Ficus_nervosa,ficus,btba,barbet,Bird,8:19,8:20,0:01:00,0,1,0,1,1,1
+232,Ficus_nervosa,ficus,mgs,squirrel,Mammal,9:12,9:13,0:01:00,0,1,1,2,1,0.5
+233,Ficus_nervosa,ficus,btba,barbet,Bird,9:42,9:44,0:02:00,0,2,2,4,2,0.5
+234,Ficus_nervosa,ficus,bcbu,bulbul,Bird,10:13,10:14,0:01:00,0,1,0,1,1,1
+235,Ficus_nervosa,ficus,wtbu,bulbul,Bird,11:18,11:20,0:02:00,1,0,0,1,0,0
+236,Ficus_nervosa,ficus,wtbu,bulbul,Bird,11:19,11:20,0:01:00,1,0,1,2,0,0
+237,Ficus_nervosa,ficus,btba,barbet,Bird,1:53,1:54,0:01:00,1,1,0,2,1,0.5
+238,Ficus_nervosa,ficus,ptpi,green_pigeon,Bird,6:36,6:37,0:01:00,0,3,0,3,3,1
+239,Ficus_nervosa,ficus,afbl,fairy_bluebird,Bird,8:22,8:23,0:01:00,0,2,0,2,2,1
+240,Ficus_nervosa,ficus,afbl,fairy_bluebird,Bird,8:28,8:30,0:02:00,0,1,0,1,1,1
+241,Ficus_nervosa,ficus,ptpi,green_pigeon,Bird,8:40,8:41,0:01:00,0,5,0,5,5,1
+242,Ficus_nervosa,ficus,afbl,fairy_bluebird,Bird,8:40,8:41,0:01:00,0,1,0,1,1,1
+243,Ficus_nervosa,ficus,ptpi,green_pigeon,Bird,8:44,8:45,0:01:00,0,3,1,4,3,0.75
+244,Ficus_nervosa,ficus,liba,barbet,Bird,8:54,8:55,0:01:00,0,2,0,2,2,1
+245,Ficus_nervosa,ficus,liba,barbet,Bird,12:06,12:08,0:02:00,1,3,0,4,3,0.75
+246,Ficus_nervosa,ficus,afbl,fairy_bluebird,Bird,1:05,1:06,0:01:00,0,1,1,2,1,0.5
+247,Ficus_nervosa,ficus,btba,barbet,Bird,1:07,1:08,0:01:00,0,1,0,1,1,1
+248,Ficus_nervosa,ficus,afbl,fairy_bluebird,Bird,8:40,8:42,0:02:00,0,4,0,4,4,1
+249,Ficus_nervosa,ficus,afbl,fairy_bluebird,Bird,8:51,8:52,0:01:00,0,2,1,3,2,0.666666667
+250,Ficus_obtusifolia,ficus,wtbu,bulbul,Bird,6:29,6:30,0:01:00,0,2,0,2,2,1
+251,Ficus_obtusifolia,ficus,wtbu,bulbul,Bird,7:50,7:51,0:01:00,4,0,0,4,0,0
+252,Ficus_obtusifolia,ficus,btba,barbet,Bird,11:57,11:59,0:02:00,2,3,0,5,3,0.6
+253,Ficus_obtusifolia,ficus,liba,barbet,Bird,12:01,12:02,0:01:00,0,4,1,5,4,0.8
+254,Ficus_obtusifolia,ficus,btba,barbet,Bird,12:22,12:23,0:01:00,1,1,0,2,1,0.5
+255,Ficus_obtusifolia,ficus,wtbu,bulbul,Bird,1:50,1:51,0:01:00,0,2,0,2,2,1
+256,Ficus_obtusifolia,ficus,oble,Leafbird,Bird,6:32,6:34,0:02:00,3,2,1,6,2,0.333333333
+257,Ficus_obtusifolia,ficus,oble,Leafbird,Bird,6:57,7:01,0:04:00,7,0,1,8,0,0
+258,Ficus_obtusifolia,ficus,btba,barbet,Bird,7:05,7:07,0:02:00,0,2,1,3,2,0.666666667
+259,Ficus_obtusifolia,ficus,oble,Leafbird,Bird,11:45,11:48,0:03:00,10,2,0,12,2,0.166666667
+260,Ficus_obtusifolia,ficus,liba,barbet,Bird,8:56,8:58,0:02:00,1,3,0,4,3,0.75
+265,Horsfieldia_kingii,non_ficus,wrho,hornbill,Bird,6:24,6:26,0:02:00,1,1,0,2,1,0.5
+266,Horsfieldia_kingii,non_ficus,rbs,squirrel,Mammal,3:56,3:57,0:01:00,1,0,0,1,0,0
+267,Horsfieldia_kingii,non_ficus,rbs,squirrel,Mammal,4:07,4:08,0:01:00,0,0,1,1,0,0
+268,Horsfieldia_kingii,non_ficus,rbs,squirrel,Mammal,4:11,4:13,0:02:00,1,0,1,2,0,0
+269,Horsfieldia_kingii,non_ficus,rbs,squirrel,Mammal,4:18,4:22,0:04:00,1,0,1,2,0,0
+270,Horsfieldia_kingii,non_ficus,wrho,hornbill,Bird,3:45,3:50,0:05:00,0,3,3,6,3,0.5
+271,Horsfieldia_kingii,non_ficus,grho,hornbill,Bird,7:16,7:18,0:02:00,0,4,0,4,4,1
+273,Livistona_jenkinsiana,non_ficus,rm,macaque,Mammal,7:15,7:16,0:01:00,0,0,1,1,0,0
+274,Livistona_jenkinsiana,non_ficus,rm,macaque,Mammal,7:42,7:50,0:08:00,0,0,1,1,0,0
+287,Phoebe_sp1,non_ficus,btba,barbet,Bird,7:10,7:12,0:02:00,0,2,1,3,2,0.666666667
+288,Phoebe_sp1,non_ficus,chmy,Myna,Bird,8:34,8:35,0:01:00,2,2,0,4,2,0.5
+289,Phoebe_sp1,non_ficus,chmy,Myna,Bird,8:35,8:36,0:01:00,0,4,1,5,4,0.8
+291,Phoebe_sp1,non_ficus,gipi,imperial_pigeon,Bird,8:09,8:10,0:01:00,0,10,1,11,10,0.909090909
+292,Phoebe_sp1,non_ficus,mgs,squirrel,Mammal,9:41,9:43,0:02:00,3,0,3,6,0,0
+293,Phoebe_sp1,non_ficus,liba,barbet,Bird,11:53,13:54,2:01:00,0,3,1,4,3,0.75
+294,Phoebe_sp1,non_ficus,chmy,Myna,Bird,13:41,13:42,0:01:00,0,1,1,2,1,0.5
+295,Phoebe_sp1,non_ficus,btba,barbet,Bird,13:43,13:44,0:01:00,0,2,0,2,2,1
+296,Phoebe_sp1,non_ficus,hbs,squirrel,Mammal,13:45,13:47,0:02:00,0,4,0,4,4,1
+297,Phoebe_sp1,non_ficus,chmy,Myna,Bird,13:51,13:52,0:01:00,0,5,3,8,5,0.625
+298,Phoebe_sp1,non_ficus,chmy,Myna,Bird,13:51,13:53,0:02:00,0,4,5,9,4,0.444444444
+299,Phoebe_sp1,non_ficus,chmy,Myna,Bird,14:29,14:30,0:01:00,0,2,0,2,2,1
+300,Phoebe_sp1,non_ficus,chmy,Myna,Bird,7:33,7:35,0:02:00,0,2,1,3,2,0.666666667
+301,Phoebe_sp1,non_ficus,chmy,Myna,Bird,7:56,7:57,0:01:00,0,1,1,2,1,0.5
+302,Phoebe_sp1,non_ficus,chmy,Myna,Bird,7:57,7:58,0:01:00,0,2,1,3,2,0.666666667
+303,Phoebe_sp1,non_ficus,chmy,Myna,Bird,8:58,8:59,0:01:00,0,1,4,5,1,0.2
+304,Phoebe_sp1,non_ficus,chmy,Myna,Bird,1:57,1:58,0:01:00,1,0,1,2,0,0
+305,Phoebe_sp1,non_ficus,chmy,Myna,Bird,2:03,2:12,0:09:00,0,0,2,2,0,0
+306,Phoebe_sp1,non_ficus,liba,barbet,Bird,1:37,1:38,0:01:00,0,1,1,2,1,0.5
+307,Phoebe_sp1,non_ficus,liba,barbet,Bird,1:39,1:40,0:01:00,1,1,0,2,1,0.5
+308,Phoebe_sp1,non_ficus,btba,barbet,Bird,7:40,7:41,0:01:00,0,1,0,1,1,1
+309,Phoebe_sp1,non_ficus,btba,barbet,Bird,8:55,8:56,0:01:00,0,0,1,1,0,0
+310,Phoebe_sp1,non_ficus,btba,barbet,Bird,12:49,12:50,0:01:00,1,1,0,2,1,0.5
+311,Phoebe_sp1,non_ficus,btba,barbet,Bird,1:03,1:04,0:01:00,0,3,1,4,3,0.75
+312,Phoebe_sp1,non_ficus,mgs,squirrel,Mammal,1:11,1:15,0:04:00,0,0,12,12,0,0
+313,Phoebe_sp1,non_ficus,mgs,squirrel,Mammal,1:18,1:21,0:03:00,0,0,12,12,0,0
+314,Phoebe_sp1,non_ficus,grho,hornbill,Bird,4:11,4:12,0:01:00,0,11,2,13,11,0.846153846
+403,Cinnamomum glaucescens,non_ficus,chmy,Myna,Bird,7:05,7:10,0:05:00,2,3,2,7,3,0.428571429
+404,Cinnamomum glaucescens,non_ficus,chmy,Myna,Bird,7:29,7:33,0:04:00,3,1,2,6,1,0.166666667
+405,Cinnamomum glaucescens,non_ficus,mgs,squirrel,Mammal,6:30,7:05,0:35:00,0,0,3,3,0,0
+406,Cinnamomum glaucescens,non_ficus,rm,squirrel,Mammal,10:35,10:50,0:15:00,0,2,0,2,2,1
+407,Beilschmiedia assamica,non_ficus,mgs,squirrel,Mammal,6:03,6:37,0:34:00,0,0,10,10,0,0
+408,Beilschmiedia assamica,non_ficus,wrho,hornbill,Bird,6:32,6:36,0:04:00,5,13,3,21,13,0.619047619
+409,Beilschmiedia assamica,non_ficus,mgs,squirrel,Mammal,10:30,11:30,1:00:00,0,0,12,12,12,1
+410,Beilschmiedia assamica,non_ficus,wrho,hornbill,Bird,6:45,7:39,0:54:00,0,0,9,9,0,0
+411,Beilschmiedia assamica,non_ficus,rbs,squirrel,Mammal,6:50,7:01,0:11:00,0,0,6,6,6,1
+412,Beilschmiedia assamica,non_ficus,wrho,hornbill,Bird,8:50,8:55,0:05:00,3,5,3,11,5,0.454545455
+414,Beilschmiedia assamica,non_ficus,wrho,hornbill,Bird,10:13,10:18,0:05:00,3,10,3,16,10,0.625
+415,Beilschmiedia assamica,non_ficus,mgs,squirrel,Mammal,10:19,10:41,0:22:00,0,0,8,8,8,1
+416,Beilschmiedia assamica,non_ficus,mgs,squirrel,Mammal,6:13,6:30,0:17:00,0,0,9,9,9,1
+417,Beilschmiedia assamica,non_ficus,wrho,hornbill,Bird,6:53,6:56,0:03:00,2,3,3,8,3,0.375
+418,Beilschmiedia assamica,non_ficus,mgs,squirrel,Mammal,6:13,6:33,0:20:00,0,0,6,6,6,1
+419,Beilschmiedia assamica,non_ficus,rm,macaque,Mammal,6:33,6:40,0:07:00,0,8,4,12,8,0.666666667
+433,Beilschmiedia assamica,non_ficus,mgs,squirrel,Mammal,7:38,9:03,1:25:00,0,0,23,23,23,1
+434,Beilschmiedia assamica,non_ficus,mgs,squirrel,Mammal,8:00,9:05,1:05:00,0,0,27,27,27,1
+435,Beilschmiedia assamica,non_ficus,mgs,squirrel,Mammal,10:03,11:00,0:57:00,0,0,2,2,2,1
+436,Beilschmiedia assamica,non_ficus,mgs,squirrel,Mammal,11:45,12:19,0:34:00,0,0,6,6,6,1
+437,Beilschmiedia assamica,non_ficus,mgs,squirrel,Mammal,12:05,13:00,0:55:00,0,0,9,9,9,1
+438,Beilschmiedia assamica,non_ficus,mgs,squirrel,Mammal,11:45,12:51,1:06:00,0,0,9,9,9,1
